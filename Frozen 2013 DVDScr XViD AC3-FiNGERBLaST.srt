@@ -1487,7 +1487,7 @@ Możemy przejść obok ciebie?
 342
 00:25:45,846 --> 00:25:47,848
 Dziękuję.
-Och, jest i ona.
+Och, tam jest.
 
 343
 00:25:47,881 --> 00:25:50,450
@@ -1495,7 +1495,7 @@ Elsa! To znaczy... Królowo...
 
 344
 00:25:50,484 --> 00:25:53,253
-To ja. Czy mogę przedstawić:
+To znowu ja. Czy mogę przedstawić:
 
 345
 00:25:53,287 --> 00:25:55,756
@@ -1539,7 +1539,7 @@ Oczywiście będziemy mieć zupę,
 
 354
 00:26:12,372 --> 00:26:13,473
-pieczona, i lody, a następnie...
+pieczeń i lody, a następnie...
 
 355
 00:26:13,607 --> 00:26:15,175
@@ -1556,8 +1556,8 @@ Anno...
 
 358
 00:26:17,578 --> 00:26:19,813
-O, możemy zaprosić wszystkich dwunastu
-braci do pozostania z nami...
+O, możemy zaprosić wszystkich twoich
+dwunastu braci żeby zomieszkali z nami...
 
 359
 00:26:19,813 --> 00:26:21,148
@@ -1565,17 +1565,17 @@ Co? Nie, nie, nie, nie, nie.
 
 360
 00:26:21,181 --> 00:26:22,416
-Oczywiście mamy pokój. Nie wiem.
-Niektóre z nich muszą...
+Oczywiście mamy dość miejsca. Nie wiem.
+Niektórzy z nich muszą...
 
 361
 00:26:22,416 --> 00:26:23,684
-Czekaj. Proszę zwolnić.
+Czekaj. Zwolnij.
 
 362
 00:26:23,750 --> 00:26:25,452
 Żaden z braci nie będzie
-tutaj przebywał..
+tutaj mieszkał,
 
 363
 00:26:25,485 --> 00:26:27,154
@@ -1587,8 +1587,8 @@ Czekaj, co?
 
 365
 00:26:28,755 --> 00:26:31,859
-Mogę z tobą porozmawiać, proszę.
-Na osobności.
+Mogę z tobą porozmawiać, proszę?
+Na osobności?
 
 366
 00:26:32,326 --> 00:26:34,127
@@ -1596,16 +1596,16 @@ Nie. Cokolwiek masz do powiedzenia, to...
 
 367
 00:26:34,127 --> 00:26:35,929
-musisz powiedzieć przy nas obojgu.
+możesz powiedzieć przy nas obojgu.
 
 368
 00:26:36,597 --> 00:26:39,633
-Dobrze. Nie możesz poślubić człowieka, 
+Dobrze. Nie możesz wyjść za człowieka, 
 którego dopiero poznałaś.
 
 369
 00:26:39,666 --> 00:26:41,535
-Można, jeśli to jest prawdziwa miłość.
+Możesz, jeśli to jest prawdziwa miłość.
 
 370
 00:26:41,568 --> 00:26:43,470
@@ -1614,11 +1614,11 @@ wiesz o prawdziwej miłości?
 
 371
 00:26:43,504 --> 00:26:47,074
-Więcej niż ty. ty wiesz jak odrzucać ludzi.
+Więcej niż ty. Ty wiesz jak odrzucać ludzi.
 
 372
 00:26:48,442 --> 00:26:51,345
-Pytałeś o moje błogosławieństwo,
+Prosiłaś o moje błogosławieństwo,
 ale moja odpowiedź brzmi: nie.
 
 373
@@ -1628,16 +1628,16 @@ Teraz przepraszam.
 374
 00:26:53,914 --> 00:26:55,616
 Wasza Wysokość, jeśli
-dałabyś mi...
+mógłbym...
 
 375
 00:26:55,649 --> 00:26:58,018
-Nie, nie możesz. 
+Nie, nie mógłbyś. 
 Myślę, że powinieneś już pójść.
 
 376
 00:26:58,485 --> 00:27:00,220
-Impreza się skończyła.
+Przyjęcie się skończyło.
 Zamknąć bramy.
 
 377
@@ -1663,7 +1663,7 @@ Więc wyjedź.
 
 382
 00:27:16,303 --> 00:27:17,838
-... Co ja zrobiłam?!
+... Co ja ci zrobiłam?!
 
 383
 00:27:17,871 --> 00:27:19,606
@@ -1676,8 +1676,7 @@ Dlaczego mnie odrzucasz?
 
 385
 00:27:21,408 --> 00:27:23,210
-Dlaczego zamykasz przede mną
-cały świat!
+Dlaczego odrzucasz cały świat?
 
 386
 00:27:23,210 --> 00:27:25,012
@@ -1689,7 +1688,7 @@ Powiedziałam, wystarczy!
 
 388
 00:27:34,922 --> 00:27:37,224
-Czary. Wiedziałem, że
+Czarna magia. Wiedziałem, że
 
 389
 00:27:37,224 --> 00:27:39,526
@@ -1701,20 +1700,20 @@ Elsa...?
 
 391
 00:27:48,468 --> 00:27:50,237
-Tam jest.
+Oto ona!
 
 392
 00:27:53,473 --> 00:27:55,442
-Wasza Wysokość! Niech żyje królowa! 
-Królowa Elsa...
+Niech żyje królowa! 
 
 393
 00:27:55,442 --> 00:27:57,411
-Przyjdź pić z nami.
+Tak, to ona!
 
 394
-00:27:57,511 --> 00:27:59,379
+00:27:57,511 --> 00:28:00,379
 Królowa Elsa.
+Nasza piękna królowa.
 
 395
 00:28:01,782 --> 00:28:04,785
@@ -1726,11 +1725,11 @@ Tam jest! Zatrzymać ją!
 
 397
 00:28:17,431 --> 00:28:18,932
-Proszę, trzymaj się z dala ode mnie.
+Proszę, trzymajcie się z dala ode mnie.
 
 398
 00:28:18,932 --> 00:28:20,434
-Trzymaj się z dala!
+Trzymajcie się z dala!
 
 399
 00:28:22,936 --> 00:28:25,472
@@ -1800,7 +1799,7 @@ Ona musi być zatrzymana!
 
 414
 00:29:47,554 --> 00:29:49,556
-Ty! Czy też w tobie  istnieje magia?
+Ty! Czy też w tobie jest czarna  magia?
 
 415
 00:29:49,556 --> 00:29:51,592
@@ -1812,11 +1811,11 @@ Nie, jestem zupełnie zwyczajna.
 
 417
 00:29:54,661 --> 00:29:56,630
-To prawda, że jest.
+To prawda, jest.
 
 418
 00:29:56,897 --> 00:29:58,632
-W najlepszy sposób.
+W pozytywnym tego słowa znaczeniu.
 
 419
 00:29:58,699 --> 00:30:00,367
@@ -1838,18 +1837,18 @@ Bała się.
 
 423
 00:30:06,240 --> 00:30:09,309
-Ona nie chciała. Ona
-nie chciała nic zrobić...
+Ona nie chciała. Nie chciała
+nic z tego co się stało...
 
 424
 00:30:09,343 --> 00:30:11,612
-Dziś była moja wina.
-Naciskałam.
+Ten dzień to moja wina.
+Zdenerwowałam ją.
 
 425
 00:30:11,612 --> 00:30:14,314
-Więc jestem jedyną, która
-musi iść za nią.
+Więc to ja powinnam
+po nią iść.
 
 426
 00:30:14,314 --> 00:30:16,183
@@ -1872,12 +1871,12 @@ I naprawię to.
 430
 00:30:22,523 --> 00:30:24,224
 - Idę z tobą.
-- Nie
+- Nie.
 
 431
 00:30:24,258 --> 00:30:27,060
-Potrzebuję cię tutaj, abyś wziął
-opieką nad Arendelle.
+Potrzebuję cię tutaj, abyś
+zajął się Arendelle.
 
 432
 00:30:27,361 --> 00:30:29,062
@@ -1901,12 +1900,12 @@ To moja siostra,
 
 437
 00:30:40,374 --> 00:30:42,376
-ona nigdy nie skrzywdzi mnie.
+Nigdy by mnie nie skrzywdziła.
 
 438
 00:31:22,883 --> 00:31:25,986
 Śnieg błyszczy biało
-wieczorem pośród gór
+pośród gór tej nocy
 
 439
 00:31:26,119 --> 00:31:29,556
@@ -1938,12 +1937,12 @@ nie pozwól im zobaczyć,
 445
 00:31:54,915 --> 00:31:58,418
 Bądź grzeczną dziewczynką,
-którą zawsze musiałaś być.
+którą zawsze musisz być.
 
 446
 00:31:58,418 --> 00:32:03,090
 Ukryj, nie czuj.
-Nie pozwól, by wiedzieli.
+Nie pozwól, by się dowiedzieli.
 
 447
 00:32:04,558 --> 00:32:07,661
@@ -1951,8 +1950,8 @@ Cóż, teraz już wiedzą.
 
 448
 00:32:07,928 --> 00:32:11,565
-Pozwól temu odejść.
-Pozwól temu odejść.
+Uwolnij to.
+Uwolnij to.
 
 449
 00:32:11,598 --> 00:32:15,068
@@ -1960,12 +1959,12 @@ Nie potrafię tego dłużej zatrzymywać.
 
 450
 00:32:15,102 --> 00:32:18,438
-Pozwól temu odejść.
-Pozwól temu odejść.
+Uwolnij to.
+Uwolnij to.
 
 451
 00:32:18,472 --> 00:32:22,176
-Odwróć się plecami, 
+Odwróć się plecami
 i zatrzaśnij drzwi.
 
 452
@@ -1991,7 +1990,7 @@ I lęki, które kiedyś mnie kontrolowały,
 
 457
 00:32:50,170 --> 00:32:54,541
-Nie mogą się już do mnie dostać.
+Nie mogą już mnie dostać.
 
 458
 00:32:54,608 --> 00:32:58,111
@@ -2003,7 +2002,7 @@ Sprawdzić ograniczenia i pokonać je.
 
 460
 00:33:01,145 --> 00:33:05,682
-Żadnych zasad, żadnych reguł.
+Żadnego 'dobrze', 'źle', żadnych reguł.
 
 461
 00:33:05,919 --> 00:33:08,288
@@ -2011,8 +2010,8 @@ Jestem wolna!
 
 462
 00:33:09,323 --> 00:33:12,860
-Pozwól temu odejść!
-Pozwól temu odejść!
+Uwolnij to!
+Uwolnij to!
 
 463
 00:33:12,893 --> 00:33:16,430
@@ -2020,12 +2019,12 @@ Jestem jednością z wiatrem i niebem.
 
 464
 00:33:16,463 --> 00:33:19,967
-Pozwól temu odejść!
-Pozwól temu odejść!
+Uwolnij to!
+Uwolnij to!
 
 465
 00:33:20,000 --> 00:33:23,504
-Nigdy nie zobaczysz mnie płaczącej.
+Nigdy nie zobaczycie mnie płaczącej.
 
 466
 00:33:24,037 --> 00:33:27,374
@@ -2037,22 +2036,22 @@ tu zostanę.
 
 468
 00:33:30,711 --> 00:33:34,448
-Co tam burzy gniew...
+Niech burza szaleje dalej...
 
 469
 00:33:42,422 --> 00:33:48,328
-Moja moc peszy całkowicie
-powietrze do ziemi.
+Moja moc przebija przez powietrze
+aż do ziemi.
 
 470
 00:33:49,463 --> 00:33:55,369
-Moja dusza wzrasta w zamrożonych
-Fraktalach dookoła.
+Moja dusza wiruje w zamrożonych
+fraktalach dookoła.
 
 471
 00:33:56,303 --> 00:34:02,276
 I jedna myśl się krystalizuje 
-jak lodowaty podmuch ...
+jak lodowaty podmuch...
 
 472
 00:34:02,943 --> 00:34:05,812
@@ -2064,8 +2063,8 @@ Przeszłość to przeszłość!
 
 474
 00:34:10,551 --> 00:34:14,188
-Pozwól temu odejść!
-Pozwól temu odejść!
+Uwolnij to!
+Uwolnij to!
 
 475
 00:34:14,221 --> 00:34:17,791
@@ -2073,12 +2072,12 @@ A ja wzrosnę tak jak wstaje nowy dzień.
 
 476
 00:34:17,824 --> 00:34:21,261
-Pozwól temu odejść!
-Pozwól temu odejść!
+Uwolnij to!
+Uwolnij to!
 
 477
 00:34:21,295 --> 00:34:25,132
-Tej idealnej dziewczyny już nie ma.
+Idealnej dziewczynki już nie ma.
 
 478
 00:34:25,532 --> 00:34:31,171
@@ -2086,7 +2085,7 @@ Oto stoję w świetle dnia.
 
 479
 00:34:33,740 --> 00:34:38,712
-Pozwól burzy się wyszaleć!!
+Niech burza szaleje dalej!
 
 480
 00:34:39,479 --> 00:34:42,916
