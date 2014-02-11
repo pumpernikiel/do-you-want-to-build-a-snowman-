@@ -4168,12 +4168,12 @@ Ach... jest dobrze.
 
 958
 01:01:34,628 --> 01:01:36,096
-Ha. Mam grubą czaszkę.
+Mam grubą czaszkę.
 
 959
 01:01:36,129 --> 01:01:39,867
-Nie mam czaszki...
-i kości.
+Ja nie mam czaszki...
+ani kości.
 
 960
 01:01:40,133 --> 01:01:41,869
@@ -4190,7 +4190,7 @@ I co teraz?
 
 963
 01:01:46,473 --> 01:01:49,510
-Co mam zrobić?
+Och... co ja teraz zrobię?
 
 964
 01:01:49,543 --> 01:01:51,512
@@ -4199,7 +4199,7 @@ Nie mogę wrócić do
 
 965
 01:01:51,512 --> 01:01:53,514
-Arendelle z pogodą jak ta.
+Arendelle z taką pogodą.
 
 966
 01:01:53,547 --> 01:01:54,481
@@ -4212,7 +4212,7 @@ Hej, hej, nie martw się o moją działalność...
 
 968
 01:01:57,818 --> 01:01:59,686
-- Martwię się o twoje włosy.
+- Martw się o swoje włosy.
 - Co?
 
 969
@@ -4222,8 +4222,8 @@ powinieneś zobaczyć swoje włosy.
 
 970
 01:02:01,755 --> 01:02:06,059
-- Nie, twoje zmieniły kolor w biały.
-- Biały...? co?
+- Nie, twoje zmieniają kolor na biały.
+- Biały...? Co?
 
 971
 01:02:06,293 --> 01:02:08,762
@@ -4240,23 +4240,23 @@ Czy to wygląda źle?
 
 974
 01:02:13,133 --> 01:02:16,537
-Nie, ja nie. Anno, potrzebujesz pomocy.
- W porządku? Chodź.
+Nieprawda. Anno, potrzebujesz pomocy.
+ W porządku? Chodźmy.
 
 975
 01:02:16,570 --> 01:02:19,907
 - Ok! Gdzie idziemy?
-- Aby zobaczyć moich znajomych.
+- Zobaczyć się z moimi znajomymi.
 
 976
 01:02:19,940 --> 01:02:22,743
-- Eksperci miłości?
-- Eksperci miłości!
+- Ekspertami od miłości?
+- Ekspertami od miłości?!
 
 977
 01:02:22,776 --> 01:02:25,179
-I nie martw się, oni
-mogą to naprawić.
+tak. I nie martwcie się, oni
+będą umieli to naprawić.
 
 978
 01:02:25,212 --> 01:02:27,181
@@ -4264,7 +4264,7 @@ Skąd wiesz?
 
 979
 01:02:27,714 --> 01:02:29,850
-Bo widziałem
+Bo widziałem,
 jak robili to wcześniej.
 
 980
