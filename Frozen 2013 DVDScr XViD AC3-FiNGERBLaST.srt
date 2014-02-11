@@ -1140,8 +1140,8 @@ partner w handlu,
 
 264
 00:21:12,139 --> 00:21:13,373
-Wydaje się, że ja mogę ci
-zaoferować
+Wydaje się słuszne, abym
+to ja zaoferował Ci
 
 265
 00:21:13,373 --> 00:21:15,843
@@ -1149,7 +1149,7 @@ Twój pierwszy taniec jako królowej.
 
 266
 00:21:23,183 --> 00:21:25,552
-Dziękuję... Tylko, ja nie tańczę.
+Dziękuję... Tylko że ja nie tańczę.
 
 267
 00:21:25,586 --> 00:21:27,921
@@ -1179,11 +1179,11 @@ A propos, dobrze, że bramy są otwarte.
 
 273
 00:21:41,935 --> 00:21:44,271
-Ale dlaczego je zamknęli?
+Ale dlaczego w ogóle je zamknęli?
 
 274
 00:21:44,338 --> 00:21:46,273
-Czy znasz powód?
+Czy znasz powód? Hmmm?..
 
 275
 00:21:46,940 --> 00:21:48,709
@@ -1197,7 +1197,7 @@ No, dobrze. Trzymaj się.
 277
 00:21:50,377 --> 00:21:52,779
 Nie nazywają mnie 
-"mały tancerz" za nic.
+"mały tancerz" bez powodu.
 
 278
 00:21:52,813 --> 00:21:58,252
@@ -1215,7 +1215,7 @@ Cóż, był rześki.
 
 281
 00:22:05,492 --> 00:22:07,528
-Specjalnie dla mężczyzny w obcasach.
+Zwłaszcza jak na mężczyznę w obcasach.
 
 282
 00:22:07,594 --> 00:22:11,765
@@ -1236,7 +1236,7 @@ Ja też...
 
 286
 00:22:21,775 --> 00:22:22,843
-Ale tak nie będzie.
+Ale nie może.
 
 287
 00:22:22,876 --> 00:22:25,812
@@ -1255,34 +1255,34 @@ Przepraszam na chwilę.
 290
 00:22:53,373 --> 00:22:58,946
 Często miałam cały gabinet dla siebie 
-do ślizgania... Przepraszam.
+do ślizgania...  Przepraszam.
 
 291
 00:22:59,079 --> 00:23:01,582
-... twoje ciało pomaga. Jestem pewna, że też.
+...twój wygląd  pomaga, z pewnością.
 
 292
 00:23:06,553 --> 00:23:09,223
 - Co to jest?
-- Urodziłam się z nim.
+- Urodziłam się z tym.
 
 293
 00:23:09,256 --> 00:23:11,625
-Śniłam, że byłam
-całowana przez trolla.
+Chociaż śniłam, że
+pocałował mnie troll.
 
 294
 00:23:11,658 --> 00:23:13,060
-Lubię to.
+Podoba mi się.
 
 295
 00:23:13,093 --> 00:23:15,729
-Tak, to wszystko!
-Nie ma sprawy.
+Tak, w całości!
+Masz?
 
 296
 00:23:16,263 --> 00:23:19,066
-ilu masz braci?
+Ok, moment. Masz ilu braci?
 
 297
 00:23:19,099 --> 00:23:21,235
@@ -1295,7 +1295,7 @@ Trzech z nich udawało,
 
 299
 00:23:23,770 --> 00:23:26,073
-Dosłownie... przez dwa lata.
+Dosłownie. Przez dwa lata.
 
 300
 00:23:26,106 --> 00:23:28,842
@@ -1304,7 +1304,7 @@ Dosłownie... przez dwa lata.
 
 301
 00:23:28,876 --> 00:23:30,577
-... I siostry.
+...I siostry.
 
 302
 00:23:30,611 --> 00:23:32,546
@@ -1326,7 +1326,7 @@ Nigdy bym ciebie nie odrzucił.
 
 306
 00:23:43,924 --> 00:23:46,760
-Ok, mogę tylko powiedzieć,
+Ok, mogę po postu powiedzieć
 coś szalonego?
 
 307
@@ -1335,30 +1335,30 @@ Kocham szaleństwa.
 
 308
 00:23:48,328 --> 00:23:52,766
-Całe życie drzwi przed nosem 
-zamyka mi los.
+Całe moje życie to tylko
+drzwi zamknięte przed nosem
 
 309
 00:23:52,933 --> 00:23:56,036
-A tu nagle zjawia się ktoś 
-taki jak ty.
+A tu nagle wpadam na ciebie. 
 
 310
 00:23:56,069 --> 00:23:58,205
-Myślałem to samo, bo jak...
+Myślałem o tym samym! Bo...
 
 311
 00:23:58,238 --> 00:24:02,376
-Szukałem przez całe życie, aby znaleźć
-moje własne miejsce.
+Szukałem przez całe życie
+mojego własnego miejsca.
 
 312
 00:24:02,676 --> 00:24:04,811
-A może to są zabawne rozmowy,
+I może to tylko mówi
+przeze mnie przyjęcie,
 
 313
 00:24:04,811 --> 00:24:06,947
-Albo fondue czekoladowe.
+Albo fondue czekoladowe,
 
 314
 00:24:06,980 --> 00:24:09,116
@@ -1375,21 +1375,21 @@ Widzę twoją twarz.
 
 317
 00:24:12,286 --> 00:24:16,190
-I to jest coś czego
-kiedykolwiek nie znałem wcześniej.
+I to jest jak nic
+co kiedykolwiek znałem
 
 318
 00:24:16,256 --> 00:24:20,227
-Miłość jest jak otwarte... drzwi!
+Miłość to otwarte drzwi!
 
 319
 00:24:21,028 --> 00:24:25,632
-- Miłość jest jak otwarte... drzwi...
+- Miłość to otwarte drzwi...
 - Drzwi...
 
 320
 00:24:25,766 --> 00:24:27,668
-Miłość jest jak otwarte... drzwi...
+Miłość to otwarte drzwi...
 
 321
 00:24:27,668 --> 00:24:30,604
@@ -1398,7 +1398,7 @@ Z tobą!
 
 322
 00:24:30,637 --> 00:24:34,408
-Miłość jest jak otwarte drzwi.
+Miłość to otwarte drzwi.
 
 323
 00:24:40,981 --> 00:24:42,616
@@ -1407,7 +1407,7 @@ Miłość jest jak otwarte drzwi.
 
 324
 00:24:42,649 --> 00:24:44,751
-- Kończymy swoje -
+- DoKańczamy za siebie -
 - Kanapki!
 
 325
@@ -1416,7 +1416,7 @@ To jest to, co chciałem powiedzieć!
 
 326
 00:24:46,186 --> 00:24:49,189
-Nigdy nie spotkałem kogoś, kto myśli,
+Nigdy nie spotkałam kogoś, kto myśli,
 - tak bardzo jak ja.
 
 327
@@ -1434,8 +1434,8 @@ Ty i ja, tak właśnie miało być.
 
 330
 00:24:59,800 --> 00:25:02,369
-- powiedz pa.
-- powiedz pa.
+- powiedz żegnaj
+- powiedz żegnaj
 
 331
 00:25:02,402 --> 00:25:05,405
@@ -1447,24 +1447,24 @@ Nie musimy czuć go już!
 
 333
 00:25:09,042 --> 00:25:12,079
-Miłość jest jak otwarte... drzwi!
+Miłość to otwarte drzwi!
 
 334
 00:25:13,814 --> 00:25:18,352
-Miłość jest jak otwarte drzwi!
+Miłość to otwarte drzwi!
 
 335
 00:25:18,652 --> 00:25:23,524
 Życie może być czymś więcej -
-z Tobą! z Tobą!
+z Tobą! Z Tobą!
 
 336
 00:25:23,557 --> 00:25:27,361
-Miłość jest jak otwarte... drzwi.
+Miłość to otwarte drzwi.
 
 337
 00:25:28,896 --> 00:25:30,797
-Czy mogę powiedzieć coś szalonego...?
+Mogę powiedzieć coś szalonego?
 
 338
 00:25:31,231 --> 00:25:33,100
