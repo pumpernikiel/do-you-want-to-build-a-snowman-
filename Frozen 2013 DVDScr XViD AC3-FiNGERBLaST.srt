@@ -3996,7 +3996,7 @@ Co robisz?
 
 918
 00:59:24,865 --> 00:59:26,266
-Mam go!
+Trafiłam go!
 
 919
 00:59:27,935 --> 00:59:29,570
@@ -4008,12 +4008,12 @@ Raczej dwieście.
 
 921
 00:59:33,140 --> 00:59:35,075
-- Co to?
+- Po co to?
 - Kopię kotwicę w śniegu.
 
 922
 00:59:35,142 --> 00:59:37,411
-Ok. Co, jeśli spadnie?
+Ok. Co, jeśli spadniemy?
 
 923
 00:59:37,444 --> 00:59:39,313
@@ -4036,16 +4036,16 @@ Ok, Anna. Na trzy.
 927
 00:59:47,254 --> 00:59:49,389
 - Jeden...
-- Ok. ty mi powiedz, kiedy...
+- Ok. powiedz, kiedy...
 
 928
 00:59:49,423 --> 00:59:51,491
-- Dwa... - Jestem gotowa...
-ja urodziłam się gotowa! Tak!
+- Jestem gotowa... - Dwa...
+- Urodziłam się gotowa! Tak!
 
 929
 00:59:51,525 --> 00:59:52,993
-Uspokój się.
+Spokojnie.
 
 930
 00:59:55,329 --> 00:59:56,697
@@ -4058,7 +4058,7 @@ To się stało.
 
 932
 01:00:03,270 --> 01:00:05,772
-Ah. Ah. Człowieku, jestem zmieszany.
+Ah. Ah. Rety, nie jestem w formie.
 
 933
 01:00:09,676 --> 01:00:12,479
@@ -4066,16 +4066,16 @@ No i proszę. Hej, Anno! Sven!
 
 934
 01:00:12,513 --> 01:00:15,616
-Gdzie poszliście? Zostawiłem w tyle
-tego gościa ze śniegu.
+Gdzie poszliście? Totalnie zgubiliśmy 
+w tyle tego pajaca ze śniegu!
 
 935
 01:00:16,583 --> 01:00:19,019
-Hej. Właśnie mówiłem o tobie.
+Hej. Właśnie o tobie mówiliśmy.
 
 936
 01:00:19,353 --> 01:00:21,788
-dobre rzeczy, wszystko, co dobre.
+Dobre rzeczy, same dobre rzeczy.
 
 937
 01:00:21,822 --> 01:00:23,156
@@ -4083,7 +4083,7 @@ Nie!
 
 938
 01:00:26,026 --> 01:00:29,129
-To nie robi Ci wielkiej różnicy co?
+To nie robi ci wielkiej różnicy, co?
 
 939
 01:00:30,564 --> 01:00:31,899
@@ -4091,7 +4091,7 @@ Olaf!
 
 940
 01:00:32,366 --> 01:00:35,669
-- Trzymajcie się, tam!
+- Trzymajcie się tam!
 - Schodź szybciej!
 
 941
@@ -4104,7 +4104,7 @@ Kristoff!
 
 943
 01:00:47,581 --> 01:00:50,217
-Nie wracaj!
+Nie wracajcie!
 
 944
 01:00:50,284 --> 01:00:52,019
@@ -4112,8 +4112,8 @@ Nie wrócimy.
 
 945
 01:00:59,359 --> 01:01:02,062
-Hej, masz rację.
-Podobnie jak poduszka.
+Hej, miałeś rację.
+Zupełnie jak poduszka.
 
 946
 01:01:02,863 --> 01:01:04,064
@@ -4121,7 +4121,7 @@ Olaf!
 
 947
 01:01:04,431 --> 01:01:07,501
-Ja nie czuję nóg!
+Nie czuję nóg!
 Nie czuję nóg!
 
 948
@@ -4143,7 +4143,7 @@ Hej, Sven! Znalazł nas.
 
 952
 01:01:17,110 --> 01:01:19,146
-Kim jest mój śliczny renifer?
+Kto jest moim słodkim reniferkiem?
 
 953
 01:01:19,179 --> 01:01:21,215
@@ -4151,7 +4151,7 @@ Nie mów tak do niego.
 
 954
 01:01:24,051 --> 01:01:25,586
-Tutaj.
+Oj tam.
 
 955
 01:01:26,587 --> 01:01:28,655
