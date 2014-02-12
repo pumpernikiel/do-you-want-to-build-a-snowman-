@@ -2254,60 +2254,60 @@ Czterdzieści? Nie, dziesięć.
 
 518
 00:37:25,012 --> 00:37:26,613
-Och, to nie jest dobrze. Zobacz.
+Och, to nie jest dobrze. Widzisz,
 
 519
 00:37:26,647 --> 00:37:28,248
-Są z naszej zimowej akcji.
+Są z naszej zimowej kolekcji.
 
 520
 00:37:28,282 --> 00:37:30,250
 Gdzie popyt i podaż
-ma duży problem.
+mają duży problem.
 
 521
 00:37:30,317 --> 00:37:32,619
-Chcesz porozmawiać o podaży
-i problemu popytu?
+Chcesz porozmawiać o problemach
+podaży i popytu?
 
 522
 00:37:32,653 --> 00:37:34,288
-Żyje ze sprzedaży lodów.
+Żyję ze sprzedaży lodu.
 
 523
 00:37:34,321 --> 00:37:36,256
-O, to jest szorstki biznes
+O, to kiepski biznes
  w tej chwili.
 
 524
 00:37:36,256 --> 00:37:38,225
-To znaczy, że jest naprawdę...
+To znaczy, jest naprawdę...
 
 525
 00:37:38,559 --> 00:37:39,860
-To niefortunne.
+Ehem. To prawidzwy pech.
 
 526
 00:37:39,893 --> 00:37:41,728
 Nadal czterdzieści. Ale
-pozwolę zajrzeć
+dorzucę wizytę
 
 527
 00:37:41,728 --> 00:37:43,597
-do sauny Dębowej.
+w saunie Oaken's.
 
 528
 00:37:44,498 --> 00:37:45,866
-Witajcie.
+Witajcie, rodzinko!
 
 529
 00:37:47,534 --> 00:37:50,204
-Dziesięć wszystko co mam. 
-Musisz mi pomóc.
+Dziesięć to wszystko co mam. 
+Pomóż mi.
 
 530
 00:37:50,237 --> 00:37:52,873
-Za dziesięć dam
+Ok. Za dziesięć dam
 Ci to i nic więcej.
 
 531
@@ -2321,7 +2321,7 @@ się na North Mountain?
 
 533
 00:37:56,176 --> 00:37:58,178
-Czy wydaje się magiczne?
+Czy wydawało się... magiczne?
 
 534
 00:37:59,079 --> 00:38:01,515
@@ -2329,15 +2329,15 @@ Tak! A teraz odsuń się,
 
 535
 00:38:01,515 --> 00:38:03,417
-gdy mam do czynienia z tym oszustem tutaj.
+a ja załatwię tego oszusta.
 
 536
 00:38:06,253 --> 00:38:08,522
-Co powiedziałeś?
+Jak mnie nazwałeś?
 
 537
 00:38:08,889 --> 00:38:11,158
-Ok. Dobra, Przepra-Ow! Wow!
+Ok. Dobra, Przepra - Aa! Whoa!
 
 538
 00:38:11,725 --> 00:38:13,694
@@ -2345,8 +2345,8 @@ Pa pa.
 
 539
 00:38:18,031 --> 00:38:20,834
-Nie Sven, nie
-mam marchewek.
+Nie, Sven, nie dostałem
+twoich marchewek.
 
 540
 00:38:21,602 --> 00:38:23,871
@@ -2355,7 +2355,7 @@ miejsce do spania.
 
 541
 00:38:23,971 --> 00:38:25,873
-I to nic nie kosztuje.
+I jest za darmo.
 
 542
 00:38:27,007 --> 00:38:28,742
@@ -2363,15 +2363,15 @@ Przykro mi z powodu tej przemocy.
 
 543
 00:38:28,775 --> 00:38:30,511
-Dodam buteleczkę Lutefisk,
+Dodam słoik Lutefisk,
 
 544
 00:38:30,511 --> 00:38:32,279
-na poprawę humoru.
+na zgodę.
 
 545
 00:38:32,312 --> 00:38:34,448
-Wystarczy strój i buty, tak?
+Tylko strój i buty, tak?
 
 546
 00:38:44,925 --> 00:38:48,529
@@ -2379,7 +2379,7 @@ Renifery są lepsze od ludzi.
 
 547
 00:38:48,562 --> 00:38:52,099
-Sven, czy nie uważasz, że to prawda?
+Sven, nie sądzisz, że to prawda?
 
 548
 00:38:52,132 --> 00:38:55,402
@@ -2408,8 +2408,8 @@ O wszystkich, z wyjątkiem ciebie.
 
 554
 00:39:11,485 --> 00:39:14,621
-Masz mnie.
-Nazywajmy to nocą.
+Tu mnie masz.
+Dobranoc.
 
 555
 00:39:14,855 --> 00:39:17,057
@@ -2442,7 +2442,7 @@ Nie biorę ludzi ze sobą.
 
 562
 00:39:37,277 --> 00:39:38,812
-Parafrazując...
+Pozwól że przeparafrazuję...
 
 563
 00:39:41,114 --> 00:39:42,616
@@ -2454,7 +2454,8 @@ Proszę.
 
 565
 00:39:50,257 --> 00:39:52,359
-Wiem, jak zatrzymać tą zimę.
+Słuchaj, wiem, jak
+zatrzymać tę zimę.
 
 566
 00:39:54,862 --> 00:39:56,363
@@ -2462,16 +2463,16 @@ Wyruszamy o świcie...
 
 567
 00:39:56,763 --> 00:39:59,099
-A zapomniałaś marchewki dla Sven.
+I zapomniałaś marchewek dla Svena.
 
 568
 00:40:00,601 --> 00:40:02,703
 Przepraszam. Przepraszam. Przykro mi.
-I nie...
+Ja nie...
 
 569
 00:40:03,837 --> 00:40:06,807
-Wychodzimy teraz. Teraz.
+Wyruszamy teraz. Teraz.
 
 570
 00:40:18,418 --> 00:40:20,521
@@ -2483,7 +2484,7 @@ Lubię szybko!
 
 572
 00:40:21,555 --> 00:40:24,825
-Zaraz, zaraz! Opuść nogi.
+Zaraz, zaraz! Zdejmij nogi.
 Świeżo co lakierowałem.
 
 573
@@ -2492,7 +2493,8 @@ Poważnie, zostałaś wychowana w stodole?
 
 574
 00:40:27,928 --> 00:40:30,697
-Ew. Nie, ja mieszkałam w zamku.
+Ew. Nie, zostałam
+wychowana w zamku.
 
 575
 00:40:32,132 --> 00:40:35,802
@@ -2506,11 +2508,11 @@ No cóż, to była moja wina.
 577
 00:40:39,006 --> 00:40:41,475
 Zaręczyłam się, ale potem
-ona oszalała, ponieważ...
+ona się zirytowała, ponieważ...
 
 578
 00:40:41,475 --> 00:40:43,744
-dopiero co go poznałam, dzisiaj.
+dopiero co go poznałam, tego dnia.
 
 579
 00:40:43,777 --> 00:40:45,779
@@ -2520,7 +2522,7 @@ pobłogosławi małżeństwa...
 580
 00:40:45,779 --> 00:40:49,583
 Czekaj. Zaręczyłaś się z kimś
-kogo dopiero poznałaś?
+kogo poznałaś tego samego dnia?
 
 581
 00:40:49,616 --> 00:40:52,252
@@ -2541,8 +2543,8 @@ Czekaj. Chcesz mi powiedzieć,
 
 585
 00:40:56,557 --> 00:41:00,894
-że jesteś zaręczona z kimś
-kogo dopiero poznałaś?
+że zaręczyłaś się z kimś
+kogo poznałaś tego samego dnia?
 
 586
 00:41:00,928 --> 00:41:03,096
@@ -2560,12 +2562,12 @@ ma bzika na punkcie brudu.
 
 589
 00:41:07,601 --> 00:41:11,071
-Czy twoi rodzice kiedykolwiek
+Czy twoi rodzice nigdy nie
 ostrzegali Cię przed obcymi?
 
 590
 00:41:11,572 --> 00:41:13,507
-Tak.
+Owszem.
 
 591
 00:41:13,674 --> 00:41:16,076
@@ -2577,7 +2579,7 @@ O tak? Jakie jest jego nazwisko?
 
 593
 00:41:18,779 --> 00:41:20,614
-... Z-Południowych Wysp?
+... Z Południowych Wysp.
 
 594
 00:41:20,647 --> 00:41:22,082
@@ -2592,7 +2594,7 @@ O tak? Jakie jest jego nazwisko?
 596
 00:41:23,550 --> 00:41:24,751
 - Kolor oczu.
-- Ze snów.
+- Jak ze snu.
 
 597
 00:41:24,785 --> 00:41:26,386
@@ -2606,11 +2608,12 @@ Czy ty zjadłaś z nim chociaż jeden posiłek?
 599
 00:41:27,754 --> 00:41:29,089
 Co jeśli nienawidzisz
-w jaki sposób on je?
+sposobu w jaki je?
 
 600
 00:41:29,122 --> 00:41:30,824
-Co jeśli nienawidzisz, gdy dłubie w nosie?
+Co jeśli nienawidzisz
+jak dłubie w nosie?
 
 601
 00:41:30,858 --> 00:41:31,992
@@ -2618,7 +2621,7 @@ Dłubie w nosie?
 
 602
 00:41:32,025 --> 00:41:33,093
-I zjada to co wydłubie.
+I zjada to.
 
 603
 00:41:33,126 --> 00:41:35,796
@@ -2666,7 +2669,7 @@ Nie, mówię poważnie.
 
 613
 00:41:57,518 --> 00:41:58,318
-SHHH.
+Shhh.
 
 614
 00:42:10,998 --> 00:42:12,833
@@ -2702,7 +2705,7 @@ Dlaczego nie?
 
 621
 00:42:25,345 --> 00:42:26,180
-Bo tobie nie ufam.
+Bo nie ufam twoim osądom.
 
 622
 00:42:26,213 --> 00:42:27,681
@@ -2710,7 +2713,7 @@ Przepraszam!
 
 623
 00:42:27,781 --> 00:42:29,316
-Kto poślubia mężczyznę,
+Kto wychodzi za mężczyznę,
  którego właśnie spotkał?
 
 624
@@ -2740,11 +2743,11 @@ Przygotuj się do skoku, Sven!
 
 630
 00:42:56,910 --> 00:42:58,278
-Nie mów mu, co robić!
+Nie mów mu, co ma robić!
 
 631
 00:42:59,012 --> 00:43:01,748
-Ja mu powiem! Skocz Sven!
+Ja mu mówię! Skacz, Sven!
 
 632
 00:43:16,597 --> 00:43:18,799
@@ -2764,8 +2767,8 @@ Ciągnij Sven! Ciągnij!
 
 636
 00:43:38,352 --> 00:43:41,855
-Ja wymienię twoje sanki
-i wszystko z nimi.
+Ja wymienię twoje sanie
+i wszystko co na nich było.
 
 637
 00:43:43,557 --> 00:43:47,461
@@ -2774,17 +2777,17 @@ chcesz mi dalej pomagać.
 
 638
 00:43:52,866 --> 00:43:54,935
-Oczywiście nie chcę
-jej już pomóc.
+Oczywiście, że nie chcę
+jej dalej pomagać.
 
 639
 00:43:54,968 --> 00:43:57,271
-W rzeczywistości, cała ta sprawa
-mnie zrujnowała.
+Tak naprawdę cała ta sprawa
+przekonała mnie
 
 640
 00:43:57,304 --> 00:43:59,606
-Nigdy nikomu już nie pomogę.
+żebym nikomu nigdy nie pomagał.
 
 641
 00:44:00,140 --> 00:44:03,710
@@ -2794,7 +2797,7 @@ Nigdy nikomu już nie pomogę.
 642
 00:44:04,244 --> 00:44:08,515
 Ale nie dostaniesz
-nowych sanek, jak zginie.
+nowych sani, jak zginie.
 
 643
 00:44:09,082 --> 00:44:10,817
@@ -2803,16 +2806,16 @@ cię nie lubię.
 
 644
 00:44:11,084 --> 00:44:13,220
-Zatrzymaj się. Idziemy.
+Zaczekaj. Idziemy.
 
 645
 00:44:13,520 --> 00:44:14,454
-Idziesz?
+Idziecie?
 
 646
 00:44:14,655 --> 00:44:18,592
-To znaczy, jak chcesz. 
-Nudziłoby mi się samej.
+To znaczy, jasne. 
+Możecie się wlec z tyłu.
 
 647
 00:44:28,702 --> 00:44:32,606
@@ -2821,7 +2824,7 @@ Nudziłoby mi się samej.
 
 648
 00:44:34,675 --> 00:44:37,344
-Ale będzie dobrze. Elsa rozmrozi Arendelle.
+Ale będzie dobrze. Elsa je rozmrozi.
 
 649
 00:44:37,377 --> 00:44:39,379
@@ -2839,38 +2842,39 @@ Raczej w tę.
 
 652
 00:45:17,584 --> 00:45:21,488
-Nie wiedziałam. że zima
-może być tak piękna.
+Nie wiedziałam, że zima
+może być taka piękna.
 
 653
 00:45:22,289 --> 00:45:25,726
-Tak... To jest naprawdę piękne,
-nie?
+Tak... Naprawdę jest pięknie,
+prawda?
 
 654
 00:45:25,859 --> 00:45:27,861
-Ale to jest tak białe.
+Ale jest tak biało.
 
 655
 00:45:27,895 --> 00:45:29,596
-Co powiesz na trochę koloru?
+Może by tak trochę koloru?
 
 656
 00:45:29,630 --> 00:45:33,133
-Myślę jak być może jakiś
-Szkarłat, chartreuse...
+Myślę na przykład o
+szkarłacie, chartreuse...
 
 657
 00:45:33,166 --> 00:45:35,903
-Może żółty co, nie żółty.
+Może żółty... nie, nie żółty.
 
 658
 00:45:35,936 --> 00:45:38,639
-Żółty i śnieg? Brrrr... nie iść.
+Żółty i śnieg? Brrrr...
+Nie pasuje.
 
 659
 00:45:42,242 --> 00:45:44,111
-Czy mam rację?
+Mam rację?
 
 660
 00:45:44,144 --> 00:45:45,546
