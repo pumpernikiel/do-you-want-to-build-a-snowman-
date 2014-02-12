@@ -816,12 +816,12 @@ Przynajmniej mam szansę!
 
 191
 00:15:43,043 --> 00:15:47,314
-Nie wolno ich wpuścić
+Nie wpuszczaj ich,
 Nie pozwól im zobaczyć.
 
 192
 00:15:47,347 --> 00:15:51,585
-Bądź dobrą dziewczynką
+Bądź grzeczną dziewczynką
 którą zawsze musisz być.
 
 193
@@ -869,7 +869,7 @@ Po raz pierwszy od zawsze.
 
 203
 00:16:20,180 --> 00:16:22,349
-[Elsa] Nie pozwól im wejść
+[Elsa] Nie wpuszczaj ich,
 nie pozwól im zobaczyć
 
 204
@@ -879,7 +879,7 @@ zawszę marzyłam.
 
 205
 00:16:25,786 --> 00:16:27,921
-[Elsa] Bądź dobrą dziewczynką
+[Elsa] Bądź grzeczną dziewczynką
 którą zawsze musisz być
 
 206
@@ -1931,7 +1931,7 @@ niebiosa wiedzą, że próbowałam...
 
 444
 00:31:51,378 --> 00:31:54,882
-Nie daj im się,
+Nie wpuszczaj ich,
 nie pozwól im zobaczyć,
 
 445
@@ -2101,8 +2101,8 @@ Elso, to ja, Anna...
 
 483
 00:34:56,797 --> 00:34:59,900
-Twoja siostra, która nie miała na myśli,
-aby zamrozić lato.
+Twoja siostra, która nie chciała,
+żebyś zamroziła lato.
 
 484
 00:35:00,334 --> 00:35:03,637
@@ -2116,25 +2116,25 @@ by się stało,
 
 486
 00:35:07,574 --> 00:35:09,543
-gdyby ona po prostu powiedziała mi
+gdyby po prostu powiedziała mi
 swój sekret... ha...
 
 487
 00:35:09,743 --> 00:35:12,079
-To gnojek.
+To frędzel.
 
 488
 00:35:16,884 --> 00:35:19,386
 O nie. Nie. Nie. Nie.
-Wracaj. Nie
+Wracaj. Nie, nie, nie!
 
 489
 00:35:20,420 --> 00:35:22,756
-Oooo-k
+Oooo-kay...
 
 490
 00:35:28,028 --> 00:35:30,764
-śnieg, to musi być śnieg,
+śnieg, to musiał być śnieg,
 
 491
 00:35:30,797 --> 00:35:33,800
@@ -2143,8 +2143,8 @@ tr-tr-tropikalnej magii,
 
 492
 00:35:33,834 --> 00:35:37,704
-która obejmowała FF-fiordy
-z białym piaskiem i ciepłą...
+która pokrywałaby f-f-fiordy
+białym piaskiem i ciepłą...
 
 493
 00:35:38,705 --> 00:35:40,340
