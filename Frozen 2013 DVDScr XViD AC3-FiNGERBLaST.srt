@@ -4434,7 +4434,7 @@ Zaraz?  Kristoff?
 1018
 01:04:50,991 --> 01:04:52,860
 - Tak.
-- Och, daj mi się na ciebie napatrzyć!
+- Och, daj mi się na ciebie napatrzeć!
 
 1019
 01:04:52,893 --> 01:04:54,595
@@ -4482,7 +4482,7 @@ Trolle? To są trolle.
 1029
 01:05:14,248 --> 01:05:19,019
 - Przyprowadził dziewczynę!
-- Przyprowadził dziewczynę!
+- Dziewczyna! Dziewczyna!
 
 1030
 01:05:21,922 --> 01:05:23,056
@@ -4490,7 +4490,7 @@ Co się dzieje?
 
 1031
 01:05:23,056 --> 01:05:24,191
-Nauczyłem się z tym żyć.
+Przyzwyczaiłem się już do tego.
 
 1032
 01:05:24,458 --> 01:05:27,961
@@ -4534,7 +4534,7 @@ Co?
 
 1041
 01:05:44,578 --> 01:05:46,713
-- Czy o jego ciężką mowę?
+- Czy o jego gderliwą mowę?
 - Nie.
 
 1042
@@ -4548,7 +4548,7 @@ Co?
 
 1044
 01:05:51,051 --> 01:05:53,387
-I choć wiemy, że on dobrze się myje,
+I choć wiemy, że myje się porządnie,
 
 1045
 01:05:53,387 --> 01:05:55,756
@@ -4561,7 +4561,7 @@ który jest tak czuły i słodki.
 
 1047
 01:05:59,760 --> 01:06:00,494
-To jest ładne.
+To miło.
 
 1048
 01:06:00,494 --> 01:06:02,529
@@ -4570,12 +4570,13 @@ który jest tak czuły i słodki.
 
 1049
 01:06:02,529 --> 01:06:04,565
-Więc on ma kilka wad,
+Cóż, jest on trochę nietentego,
+Cóż, ma parę wad,
 
 1050
 01:06:04,598 --> 01:06:06,867
 Jego dziwny mózg, kochana.
-Jego podejście do renifera
+Jego przyjaźń z reniferem
 
 1051
 01:06:06,867 --> 01:06:09,236
@@ -4584,7 +4585,7 @@ Jego podejście do renifera
 
 1052
 01:06:09,269 --> 01:06:11,438
-Więc on jest trochę nietentego,
+Cóż, jest on trochę nietentego,
 
 1053
 01:06:11,438 --> 01:06:13,640
