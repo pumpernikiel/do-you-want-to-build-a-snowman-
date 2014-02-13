@@ -37,7 +37,7 @@ zimne i czyste.
 
 9
 00:02:11,231 --> 00:02:14,468
-Uderz dla  miłości i uderz dla strachu.
+Uderz dla miłości i uderz dla strachu.
 
 10
 00:02:14,501 --> 00:02:17,371
@@ -137,7 +137,7 @@ Anna, wracaj spać.
 
 33
 00:03:52,933 --> 00:03:57,538
-Po prostu nie mogę. 
+Po prostu nie mogę.
 Niebo nie śpi, więc i ja nie śpię,
 
 34
@@ -220,7 +220,7 @@ To wymyka się spod kontroli!
 
 52
 00:05:42,476 --> 00:05:45,846
-To był wypadek. 
+To był wypadek.
 Przepraszam, Anno.
 
 53
@@ -461,7 +461,7 @@ Boję się. Staje się coraz silniejsze!
 
 109
 00:09:39,847 --> 00:09:41,114
-Zdenerwowanie sprawia, 
+Zdenerwowanie sprawia,
 że jest jeszcze gorzej.
 
 110
@@ -565,7 +565,7 @@ A...! Podziel się!
 
 133
 00:12:19,806 --> 00:12:22,809
-Nie mogę uwierzyć, że 
+Nie mogę uwierzyć, że
 wreszcie otwierają bramy!
 
 134
@@ -732,7 +732,7 @@ Bo pierwszy raz od zawsze,
 
 172
 00:14:28,035 --> 00:14:32,472
-nie będę sama. Nie mogę się doczekać, 
+nie będę sama. Nie mogę się doczekać,
 aż spotkam wszystkich...
 
 173
@@ -852,7 +852,7 @@ Czekanie jest agonią!
 
 199
 00:16:10,103 --> 00:16:13,440
-Powiedzcie strażnikom, 
+Powiedzcie strażnikom,
 by otworzyli...
 
 200
@@ -1072,7 +1072,7 @@ Księżniczka Anna z Arendelle!
 
 249
 00:20:17,317 --> 00:20:21,455
-Tutaj? Czy na pewno? 
+Tutaj? Czy na pewno?
 Nie sądzę, że powinnam... Dobra
 
 250
@@ -1195,7 +1195,7 @@ No, dobrze. Trzymaj się.
 
 277
 00:21:50,377 --> 00:21:52,779
-Nie nazywają mnie 
+Nie nazywają mnie
 "mały tancerz" bez powodu.
 
 278
@@ -1253,12 +1253,12 @@ Przepraszam na chwilę.
 
 290
 00:22:53,373 --> 00:22:58,946
-Często miałam cały gabinet dla siebie 
-do ślizgania...  Przepraszam.
+Często miałam cały gabinet dla siebie
+do ślizgania... Przepraszam.
 
 291
 00:22:59,079 --> 00:23:01,582
-...twój wygląd  pomaga, z pewnością.
+...twój wygląd pomaga, z pewnością.
 
 292
 00:23:06,553 --> 00:23:09,223
@@ -1289,7 +1289,7 @@ Dwunastu starszych braci.
 
 298
 00:23:21,268 --> 00:23:23,737
-Trzech z nich udawało, 
+Trzech z nich udawało,
 że jestem niewidzialny...
 
 299
@@ -1339,7 +1339,7 @@ drzwi zamknięte przed nosem
 
 309
 00:23:52,933 --> 00:23:56,036
-A tu nagle wpadam na ciebie. 
+A tu nagle wpadam na ciebie.
 
 310
 00:23:56,069 --> 00:23:58,205
@@ -1483,7 +1483,7 @@ Tak.
 
 342
 00:25:41,975 --> 00:25:45,579
-Uwaga! Pardon. Przepraszam. 
+Uwaga! Pardon. Przepraszam.
 Możemy przejść obok ciebie?
 
 343
@@ -1532,7 +1532,7 @@ wszystkich szczegółów.
 
 353
 00:26:09,469 --> 00:26:11,305
-Potrzebujemy kilku dni, 
+Potrzebujemy kilku dni,
 aby zaplanować ceremonię.
 
 354
@@ -1602,7 +1602,7 @@ możesz powiedzieć przy nas obojgu.
 
 369
 00:26:36,597 --> 00:26:39,633
-Dobrze. Nie możesz wyjść za człowieka, 
+Dobrze. Nie możesz wyjść za człowieka,
 którego dopiero poznałaś.
 
 370
@@ -1634,7 +1634,7 @@ mógłbym...
 
 376
 00:26:55,649 --> 00:26:58,018
-Nie, nie mógłbyś. 
+Nie, nie mógłbyś.
 Myślę, że powinieneś już pójść.
 
 377
@@ -1673,7 +1673,7 @@ Wystarczy, Anna.
 
 385
 00:27:19,640 --> 00:27:21,375
-Nie, dlaczego? 
+Nie, dlaczego?
 Dlaczego mnie odrzucasz?
 
 386
@@ -1706,7 +1706,7 @@ Oto ona!
 
 393
 00:27:53,473 --> 00:27:55,442
-Niech żyje królowa! 
+Niech żyje królowa!
 
 394
 00:27:55,442 --> 00:27:57,411
@@ -1801,7 +1801,7 @@ Trzeba ją powstrzymać!
 
 415
 00:29:47,554 --> 00:29:49,556
-Ty! Czy też w tobie jest czarna  magia?
+Ty! Czy też w tobie jest czarna magia?
 
 416
 00:29:49,556 --> 00:29:51,592
@@ -1923,12 +1923,12 @@ i wygląda na to, że jestem jego królową.
 
 443
 00:31:37,497 --> 00:31:43,470
-Wiatr wyje jak wirujący 
+Wiatr wyje jak wirujący
 sztorm we mnie.
 
 444
 00:31:44,505 --> 00:31:49,443
-Nie mogłam go zatrzymać, 
+Nie mogłam go zatrzymać,
 niebiosa wiedzą, że próbowałam...
 
 445
@@ -1983,7 +1983,7 @@ Zresztą chłód nigdy mi nie przeszkadzał.
 
 456
 00:32:40,460 --> 00:32:46,200
-To zabawne, jak dystans sprawia, 
+To zabawne, jak dystans sprawia,
 że wszystko wydaje się małe.
 
 457
@@ -2305,7 +2305,7 @@ Witajcie, rodzinko!
 
 530
 00:37:47,534 --> 00:37:50,204
-Dziesięć to wszystko co mam. 
+Dziesięć to wszystko co mam.
 Pomóż mi.
 
 531
@@ -2501,7 +2501,7 @@ wychowana w zamku.
 
 576
 00:40:32,132 --> 00:40:35,802
-Więc powiedz mi, o co chodzi 
+Więc powiedz mi, o co chodzi
 z tym lodowym szaleństwem królowej?
 
 577
@@ -2694,7 +2694,7 @@ Wilki?
 
 619
 00:42:20,707 --> 00:42:22,943
-Po prostu... nie spadnij 
+Po prostu... nie spadnij
 i nie zostań zjedzona.
 
 620
@@ -2817,7 +2817,7 @@ Idziecie?
 
 647
 00:44:14,655 --> 00:44:18,592
-To znaczy, jasne. 
+To znaczy, jasne.
 Możecie się wlec z tyłu.
 
 648
@@ -2908,7 +2908,7 @@ Ew, ciało!
 
 667
 00:45:56,290 --> 00:45:57,758
-Zaraz, na co teraz  patrzę?
+Zaraz, na co teraz patrzę?
 
 668
 00:45:57,758 --> 00:45:59,660
@@ -3048,7 +3048,7 @@ pokazać nam drogę?
 
 699
 00:47:13,233 --> 00:47:15,369
-Przestań, Sven. 
+Przestań, Sven.
 Próbuję się tu skupić.
 
 700
@@ -3242,7 +3242,7 @@ Płaszcz. Czy ktoś potrzebował płaszcz?
 
 742
 00:49:44,284 --> 00:49:47,354
-Arendelle ma dług wobec ciebie, 
+Arendelle ma dług wobec ciebie,
 Wasza Wysokość.
 
 743
@@ -3314,7 +3314,7 @@ Spokojnie. Spokojnie.
 
 759
 00:50:27,294 --> 00:50:30,464
-Koń księżniczki Anny. Co się z nią stało? 
+Koń księżniczki Anny. Co się z nią stało?
 Gdzie ona jest?
 
 760
@@ -3401,7 +3401,7 @@ Co teraz?
 
 779
 00:51:26,887 --> 00:51:28,622
-Jest zbyt stromo. 
+Jest zbyt stromo.
 Mam tylko jedną linę,
 
 780
@@ -3608,7 +3608,7 @@ I to miejsce
 
 826
 00:54:29,002 --> 00:54:31,238
-Nigdy nie wiedziałam, 
+Nigdy nie wiedziałam,
 do czego jestem zdolna.
 
 827
@@ -3618,7 +3618,7 @@ stało. Gdybym wiedziała, że...
 
 828
 00:54:34,575 --> 00:54:36,009
-Nie,  jest w porządku.
+Nie, jest w porządku.
 
 829
 00:54:36,643 --> 00:54:38,745
@@ -3665,7 +3665,7 @@ Czekaj. Co to jest?
 
 839
 00:55:01,001 --> 00:55:03,904
-Witam, jestem Olaf 
+Witam, jestem Olaf
 I lubię ciepłe uściski.
 
 840
@@ -3750,7 +3750,7 @@ w końcu rozumiem.
 
 859
 00:55:58,892 --> 00:56:03,297
-Po raz pierwszy od zawsze, 
+Po raz pierwszy od zawsze,
 Możemy to naprawić ręka w rękę.
 
 860
@@ -3792,7 +3792,7 @@ ale zostaw mnie.
 
 869
 00:56:31,325 --> 00:56:35,395
-Tak, jestem  sama, 
+Tak, jestem sama,
 ale jestem sama i wolna.
 
 870
@@ -3855,7 +3855,7 @@ Wiem, że potrafisz!
 
 883
 00:57:10,397 --> 00:57:12,933
-[Elsa] Jestem taka głupia! 
+[Elsa] Jestem taka głupia!
 Nie mogę być wolna!
 
 884
@@ -3880,7 +3880,7 @@ Nie mogę być wolna!
 
 889
 00:57:25,846 --> 00:57:28,448
-[Elsa] Anno, proszę, tylko 
+[Elsa] Anno, proszę, tylko
 to pogarszasz!
 
 890
@@ -4095,7 +4095,7 @@ No i proszę. Hej, Anno! Sven!
 
 939
 01:00:12,513 --> 01:00:15,616
-Gdzie poszliście? Totalnie zgubiliśmy 
+Gdzie poszliście? Totalnie zgubiliśmy
 w tyle tego pajaca ze śniegu!
 
 940
@@ -4370,7 +4370,7 @@ Są też czasami uparci i trochę
 1001
 01:03:42,155 --> 01:03:46,360
 aroganccy. I ciężcy.
-Naprawdę, naprawdę ciężcy. 
+Naprawdę, naprawdę ciężcy.
 
 1002
 01:03:46,393 --> 01:03:48,362
@@ -4417,7 +4417,7 @@ Miło was poznać!
 
 1012
 01:04:19,860 --> 01:04:22,563
-Anna, kocham cię, 
+Anna, kocham cię,
 i nalegam abyś zaczęła uciekać.
 
 1013
@@ -4529,7 +4529,7 @@ Działający nos. Mocne zęby.
 
 1037
 01:05:27,995 --> 01:05:31,398
-Tak, tak, tak. Nada się  
+Tak, tak, tak. Nada się
 świetnie dla naszego Kristoffa.
 
 1038
@@ -4586,7 +4586,7 @@ zawsze kończy jakby śmierdzący.
 
 1050
 01:05:55,789 --> 01:05:59,760
-Ale nigdy nie spotkasz faceta, 
+Ale nigdy nie spotkasz faceta,
 który jest tak czuły i słodki.
 
 1051
@@ -4657,7 +4657,7 @@ ze względu na jego niemęski blond?
 
 1066
 01:06:38,966 --> 01:06:42,703
-Albo sposób w jaki ukrywa fakt, 
+Albo sposób w jaki ukrywa fakt,
 że jest naprawdę miły?
 
 1067
@@ -4678,12 +4678,12 @@ Jego samotność jest potwierdzeniem
 
 1071
 01:06:50,210 --> 01:06:52,312
-jego desperackiego pragnienia 
+jego desperackiego pragnienia
 leczniczych uścisków.
 
 1072
 01:06:52,713 --> 01:06:56,984
-Cóż, jest on nieco nietentego, 
+Cóż, jest on nieco nietentego,
 ale my wiemy co zrobić.
 
 1073
@@ -4696,12 +4696,12 @@ to umówić go z tobą.
 
 1075
 01:07:02,723 --> 01:07:04,591
-Przestańcie. Przestańcie. 
+Przestańcie. Przestańcie.
 Przestańcie. Dość!
 
 1076
 01:07:04,625 --> 01:07:07,494
-Ona jest zaręczona z kimś innym. 
+Ona jest zaręczona z kimś innym.
 Rozumiecie?
 
 1077
@@ -4714,7 +4714,7 @@ to drugorzędna sprawa.
 
 1079
 01:07:15,102 --> 01:07:17,538
-Ten zwrot “zaręczona” 
+Ten zwrot “zaręczona”
 to elastyczna umowa.
 
 1080
@@ -4764,7 +4764,7 @@ szaleni albo wystraszeni albo zestresowani.
 
 1091
 01:07:45,299 --> 01:07:47,701
-Ale pchnij trochę miłości 
+Ale pchnij trochę miłości
 w ich kierunku...
 
 1092
@@ -4810,7 +4810,7 @@ tylko nietentego może naprawić nietenetego.
 
 1102
 01:08:12,793 --> 01:08:18,098
-Prawdziwa, prawdziwa, prawdziwa, 
+Prawdziwa, prawdziwa, prawdziwa,
 prawdziwa, miłość
 
 1103
@@ -4820,7 +4820,7 @@ Prawdziwa-a-a-a-a-a.
 
 1104
 01:08:23,003 --> 01:08:26,940
-Czy Anna, bierzesz Kristoffa, 
+Czy Anna, bierzesz Kristoffa,
 Aby został Twoim...
 
 1105
@@ -5180,7 +5180,7 @@ ze mną, tak po prostu.
 
 1188
 01:16:21,782 --> 01:16:23,750
-Pomyślałem, po tym o ślubie, 
+Pomyślałem, po tym o ślubie,
 będę musiał
 
 1189
@@ -5369,7 +5369,7 @@ Ale nie dotykaj go!
 
 1232
 01:20:33,333 --> 01:20:37,004
-Więc, gdzie jest Hans? 
+Więc, gdzie jest Hans?
 Co się stało po pocałunku?
 
 1233
@@ -5592,7 +5592,7 @@ ale było już za późno.
 
 1284
 01:25:22,756 --> 01:25:26,126
-Jej skóra była lodem. 
+Jej skóra była lodem.
 Jej włosy zbielały...
 
 1285
@@ -5807,7 +5807,7 @@ Król lodu i Wybawiciel z Arendelle.
 
 1335
 01:30:46,547 --> 01:30:49,983
-I to nawet ma uchwyt na kubek... 
+I to nawet ma uchwyt na kubek...
 Podoba ci się?
 
 1336
