@@ -388,7 +388,7 @@ Jest tak, jak gdyby Cię nie było.
 
 92
 00:08:37,551 --> 00:08:39,820
-Kiedyś byłyśmy najlepszymi przyjaciółkami.
+Kiedyś byłyśmy najlepszymi kumpelkami.
 
 93
 00:08:40,053 --> 00:08:45,125
@@ -453,7 +453,7 @@ te wszystkie puste pokoje.
 
 107
 00:09:28,302 --> 00:09:31,972
-Tylko obserwuje upływ czasu.
+Tylko obserwuję upływ czasu.
 
 108
 00:09:37,144 --> 00:09:39,813
@@ -530,7 +530,7 @@ Trzy lata później
 
 125
 00:11:53,447 --> 00:11:56,216
-Proszę patrzyć pod nogi.
+Proszę patrzeć pod nogi.
 Otwarcie Bramy wkrótce.
 
 126
@@ -561,7 +561,7 @@ To nie moja wina.
 
 132
 00:12:17,304 --> 00:12:19,439
-A.....! Podziel się!
+A...! Podziel się!
 
 133
 00:12:19,806 --> 00:12:22,809
@@ -583,8 +583,8 @@ tajemniczy partner handlowy.
 
 137
 00:12:31,818 --> 00:12:34,788
-Otwórzcie te wrota tak abym
-dostrzegł ukrywające się tam tajemnice
+Otwórzcie te wrota tak abym mógł
+dostrzec ukrywające się tam tajemnice
 
 138
 00:12:34,788 --> 00:12:36,690
@@ -733,7 +733,7 @@ Bo pierwszy raz od zawsze,
 172
 00:14:28,035 --> 00:14:32,472
 nie będę sama. Nie mogę się doczekać, 
-aż spotkać wszystkich...
+aż spotkam wszystkich...
 
 173
 00:14:33,207 --> 00:14:35,209
@@ -3976,7 +3976,7 @@ Uważaj na mój tyłek!
 
 910
 00:58:36,216 --> 00:58:39,119
-Nie jest miło rzucać ludźmi!
+To niegrzeczne rzucać ludźmi!
 
 911
 00:58:39,219 --> 00:58:40,954
@@ -3989,11 +3989,11 @@ Uspokój się. Uspokój się.
 
 913
 00:58:42,723 --> 00:58:43,657
-Dobrze. Jest w porządku.
+Okay. Już się uspokoiłam.
 
 914
 00:58:43,657 --> 00:58:44,825
-Niech sobie tam będzie.
+Zostaw go w spokoju.
 
 915
 00:58:44,825 --> 00:58:46,326
@@ -4006,11 +4006,11 @@ Och... daj spokój!
 
 917
 00:58:52,666 --> 00:58:53,700
-Jest wkurzony!
+Teraz go rozsłościłaś!
 
 918
 00:58:53,700 --> 00:58:54,735
-Będę go rozpraszać.
+Odwrócę jego uwagę.
 
 919
 00:58:54,768 --> 00:58:56,703
@@ -4044,11 +4044,11 @@ Raczej dwieście.
 926
 00:59:33,140 --> 00:59:35,075
 - Po co to?
-- Kopię kotwicę w śniegu.
+- Robię śnieżną kotwicę.
 
 927
 00:59:35,142 --> 00:59:37,411
-Ok. Co, jeśli spadniemy?
+Ok. Co jeśli spadniemy?
 
 928
 00:59:37,444 --> 00:59:39,313
@@ -4244,7 +4244,8 @@ Twój lodowy biznes...
 
 972
 01:01:54,515 --> 01:01:57,050
-Hej, hej, nie martw się o moją działalność...
+Hej, hej, nie martw się o
+mój lodowy biznes...
 
 973
 01:01:57,818 --> 01:01:59,686
