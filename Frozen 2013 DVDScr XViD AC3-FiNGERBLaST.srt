@@ -671,7 +671,7 @@ Nie wiedziałam, że jeszcze to robią.
 
 158
 00:13:34,515 --> 00:13:38,585
-Kto mógł wiedzieć, że posiadamy 8000 talerzy
+Kto mógł wiedzieć, że mamy 8000 talerzy
 do sałatek...?
 
 159
@@ -703,12 +703,12 @@ na tą zmianę!
 
 165
 00:13:57,437 --> 00:14:02,075
-Po raz pierwszy od zawsze,
+Bo po raz pierwszy od zawsze,
 
 166
 00:14:02,209 --> 00:14:06,480
 Będzie muzyka,
-tam będzie światło.
+będzie światło.
 
 167
 00:14:06,613 --> 00:14:11,185
@@ -733,7 +733,7 @@ Bo pierwszy raz od zawsze,
 172
 00:14:28,035 --> 00:14:32,472
 nie będę sama. Nie mogę się doczekać, 
-aby spotkać wszystkich...
+aż spotkać wszystkich...
 
 173
 00:14:33,207 --> 00:14:35,209
@@ -745,7 +745,7 @@ Dzisiaj, wyobraźcie sobie mnie w sukni i w ogóle
 
 175
 00:14:38,545 --> 00:14:40,881
-apetycznie oparta
+czarująco oparta
 o ścianę.
 
 176
@@ -764,7 +764,7 @@ wysoki i przystojny.
 
 179
 00:14:50,457 --> 00:14:54,761
-Chce napchać
+Chcę napchać
 sobie usta czekoladą!
 
 180
@@ -778,8 +778,8 @@ co jest totalnie niezwykłe.
 
 182
 00:15:00,000 --> 00:15:03,904
-Nie podobne do życia
-jakie do tej pory prowadziłam.
+W niczym nie podobne do mojego
+dotychczasowego życia.
 
 183
 00:15:04,271 --> 00:15:08,141
@@ -792,7 +792,7 @@ Będzie zabawa.
 
 185
 00:15:13,413 --> 00:15:17,417
-Po raz pierwszy i na zawsze,
+Po raz pierwszy od zawsze,
 
 186
 00:15:17,751 --> 00:15:22,389
@@ -816,8 +816,8 @@ Przynajmniej mam szansę!
 
 191
 00:15:43,043 --> 00:15:47,314
-Nie wpuszczaj ich,
-Nie pozwól im zobaczyć.
+Nie daj im wejść,
+Nie daj im zobaczyć.
 
 192
 00:15:47,347 --> 00:15:51,585
@@ -852,15 +852,15 @@ Czekanie jest agonią!
 
 199
 00:16:10,103 --> 00:16:13,440
-Powiedz strażnikom, 
-aby otworzyć...
+Powiedzcie strażnikom, 
+by otworzyli...
 
 200
-00:16:13,473 --> 00:16:16,210
+00:16:13,473 --> 00:16:15,000
 Bramy!
 
 201
-00:16:14,000 --> 00:16:17,000
+00:16:15,570 --> 00:16:17,060
 Bramy!
 
 202
@@ -869,8 +869,8 @@ Po raz pierwszy od zawsze.
 
 203
 00:16:20,180 --> 00:16:22,349
-[Elsa] Nie wpuszczaj ich,
-nie pozwól im zobaczyć
+[Elsa] Nie daj im wejść,
+nie daj im zobaczyć
 
 204
 00:16:22,349 --> 00:16:25,786
@@ -911,7 +911,7 @@ od zawsze...
 
 212
 00:16:49,443 --> 00:16:55,148
-Pierwszy raz od zawsze!
+Po raz pierwszy od zawsze!
 
 213
 00:16:56,583 --> 00:17:01,355
@@ -974,7 +974,7 @@ Nie ty jesteś niezręczny,
 226
 00:17:43,063 --> 00:17:45,098
 ale tylko dlatego, że...
-Ja jestem dziwna.
+Ja jestem niezręczna.
 
 227
 00:17:45,132 --> 00:17:46,567
@@ -1085,18 +1085,18 @@ Cześć ja...? Och. Um. Cześć.
 
 252
 00:20:37,371 --> 00:20:39,673
-- Wyglądasz pięknie.
+- Wyglądasz uroczo.
 - Dziękuję.
 
 253
 00:20:39,773 --> 00:20:41,909
-Wyglądasz ładniej.
-To znaczy, nie ładniej.
+Ty wyglądasz uroczej.
+To znaczy, uroczyściej.
 
 254
 00:20:41,909 --> 00:20:43,877
-Nie wyglądasz ładnie,
-ale pięknie.
+Nie, nie wyglądasz uroczyście,
+ale bardziej uroczo.
 
 255
 00:20:44,077 --> 00:20:45,879
@@ -1163,7 +1163,7 @@ Ale moja siostra tak.
 269
 00:21:30,958 --> 00:21:33,660
 Jeśli omdlejesz, daj mi wcześniej znać,
-abym mógł cię złapać.
+złapię cię.
 
 270
 00:21:33,694 --> 00:21:35,162
@@ -1175,7 +1175,7 @@ Jak zwinny paw...
 
 272
 00:21:38,799 --> 00:21:41,802
-A propos, dobrze, że bramy są otwarte.
+A propos, świetnie, że bramy są otwarte.
 
 273
 00:21:41,935 --> 00:21:44,271
@@ -1183,7 +1183,7 @@ Ale dlaczego w ogóle je zamknęli?
 
 274
 00:21:44,338 --> 00:21:46,273
-Czy znasz powód? Hmmm?..
+Czy znasz powód? Hmm?..
 
 275
 00:21:46,940 --> 00:21:48,709
@@ -1224,7 +1224,7 @@ Zwłaszcza jak na mężczyznę w obcasach.
 
 283
 00:22:11,798 --> 00:22:13,934
-Tak jest miło.
+Jest tak miło.
 
 284
 00:22:13,967 --> 00:22:16,537
@@ -1472,7 +1472,7 @@ Wyjdziesz za mnie?
 
 339
 00:25:33,133 --> 00:25:35,269
-Czy mogę coś powiedzieć
+Czy mogę powiedzieć coś
 jeszcze bardziej szalonego?
 
 340
@@ -1931,8 +1931,8 @@ niebiosa wiedzą, że próbowałam...
 
 444
 00:31:51,378 --> 00:31:54,882
-Nie wpuszczaj ich,
-nie pozwól im zobaczyć,
+Nie daj im wejść,
+nie daj im zobaczyć,
 
 445
 00:31:54,915 --> 00:31:58,418
