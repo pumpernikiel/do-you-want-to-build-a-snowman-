@@ -3198,7 +3198,7 @@ i wy też tam będziecie.
 730
 00:49:03,410 --> 00:49:08,782
 Kiedy w końcu zrobię, co robią
-mrożone rzeczy w lecie!
+zamrożone rzeczy w lecie!
 
 731
 00:49:09,049 --> 00:49:11,151
@@ -3211,7 +3211,7 @@ W lecie!
 
 733
 00:49:19,359 --> 00:49:22,129
-Więc Chodź! Elsa w tę stronę.
+Więc chodźmy! Do Elsy w tę stronę.
 
 734
 00:49:22,162 --> 00:49:24,898
@@ -3227,11 +3227,11 @@ Ktoś musi mu powiedzieć.
 
 737
 00:49:34,741 --> 00:49:37,077
-Nie, kora ma być skierowana w dół.
+Nie, masz korę skierowaną w dół.
 
 738
 00:49:37,110 --> 00:49:38,879
-Kora musi być twarzą do góry.
+Kora musi być do góry.
 
 739
 00:49:39,213 --> 00:49:40,747
@@ -3265,7 +3265,7 @@ Masz. Roznieś je.
 
 746
 00:49:53,293 --> 00:49:54,962
-Książę Hans, nie spodziewałem się,
+Książę Hans, spodziewasz się,
 
 747
 00:49:54,995 --> 00:49:56,697
@@ -3273,8 +3273,8 @@ Książę Hans, nie spodziewałem się,
 
 748
 00:49:56,730 --> 00:50:00,033
-podczas rozdania wszystkich dóbr handlowych
-Arendelle?
+podczas gdy ty rozdajesz wszystkie
+dobra handlowe Arendelle?
 
 749
 00:50:00,067 --> 00:50:01,668
@@ -3282,7 +3282,7 @@ Księżniczka Anna dała rozkazy i...
 
 750
 00:50:01,668 --> 00:50:03,270
-I to jest kolejna rzecz…
+I to jest kolejna rzecz!
 
 751
 00:50:03,337 --> 00:50:05,205
@@ -3290,7 +3290,7 @@ Nie dotarło do ciebie, że księżniczka
 
 752
 00:50:05,239 --> 00:50:07,107
-może spiskować z niegodziwą czarodziejką...
+może spiskować z niegodziwą czarnoksiężniczką...
 
 753
 00:50:07,140 --> 00:50:08,308
@@ -3299,7 +3299,7 @@ aby zniszczyć nas wszystkich?
 754
 00:50:08,342 --> 00:50:11,812
 Nie kwestionuj zdania księżniczki.
-Zostawiła mi zadanie,
+Zostawiła mnie u władzy,
 
 755
 00:50:11,845 --> 00:50:13,313
@@ -3338,19 +3338,19 @@ Ja mam dwóch mężczyzn, panie mój!
 
 763
 00:50:39,873 --> 00:50:41,708
-Bądź przygotowany na wszystko,
+Bądźcie przygotowani na wszystko,
 
 764
 00:50:41,742 --> 00:50:44,077
-jak spotkasz królową,
+jeżeli spotkacie królową,
 
 765
 00:50:44,478 --> 00:50:47,581
-połóż kres tej zimie.
+połóżcie kres tej zimie.
 
 766
 00:50:47,614 --> 00:50:49,550
-Rozumiesz?
+Rozumiecie?
 
 767
 00:50:53,420 --> 00:50:56,490
@@ -3406,7 +3406,7 @@ Co teraz?
 
 779
 00:51:26,887 --> 00:51:28,622
-To jest zbyt strome. 
+Jest zbyt stromo. 
 Mam tylko jedną linę,
 
 780
@@ -3423,11 +3423,11 @@ Co robisz?
 
 783
 00:51:34,828 --> 00:51:38,799
-Idę zobaczyć moją siostrę.
+Zamierzam zobaczyć się z moją siostrą.
 
 784
 00:51:38,966 --> 00:51:42,936
-Masz zamiar się zabić.
+Zamierzasz się zabić.
 Nie stawiałbym nogi w tamtym miejscu.
 
 785
@@ -3441,7 +3441,8 @@ Skąd wiesz czy Elsa chce cię widzieć?
 
 787
 00:51:48,709 --> 00:51:50,744
-Muszę skoncentrować się.
+Nie słucham cię, bo muszę
+się skoncentrować.
 
 788
 00:51:51,545 --> 00:51:53,180
@@ -3471,12 +3472,12 @@ Tak, eksperci od miłości!
 
 794
 00:52:09,429 --> 00:52:11,298
-Proszę mi powiedzieć, że jestem prawie na miejscu.
+Proszę powiedz mi, że jestem prawie na miejscu.
 
 795
 00:52:12,299 --> 00:52:14,735
-Czy powietrze wydaje się nieco lżejsze dla ciebie
-tam?
+Czy powietrze nie wydaje ci się
+nieco lżejsze tu na górze?
 
 796
 00:52:16,136 --> 00:52:18,472
