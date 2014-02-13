@@ -4594,7 +4594,7 @@ który jest tak czuły i słodki.
 To miło.
 
 1052
-01:06:02,529 --> 01:06:04,565
+01:06:00,494 --> 01:06:04,565
 Cóż, jest on trochę nietentego,
 Cóż, ma parę wad,
 
