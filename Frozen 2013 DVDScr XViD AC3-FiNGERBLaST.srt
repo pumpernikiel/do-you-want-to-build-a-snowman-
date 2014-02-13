@@ -1557,7 +1557,7 @@ Anno...
 358
 00:26:17,578 --> 00:26:19,813
 O, możemy zaprosić wszystkich twoich
-dwunastu braci żeby zomieszkali z nami...
+dwunastu braci żeby zamieszkali z nami...
 
 359
 00:26:19,813 --> 00:26:21,148
@@ -1790,7 +1790,7 @@ Królowa przeklęła tę ziemię!
 
 412
 00:29:43,584 --> 00:29:45,285
-Ona musi być zatrzymana!
+Trzeba ją powstrzymać!
 
 413
 00:29:45,319 --> 00:29:47,287
@@ -2050,7 +2050,7 @@ fraktalach dookoła.
 
 471
 00:33:56,303 --> 00:34:02,276
-I jedna myśl się krystalizuje 
+I jedna myśl krystalizuje się
 jak lodowaty podmuch...
 
 472
@@ -2144,7 +2144,7 @@ tr-tr-tropikalnej magii,
 492
 00:35:33,834 --> 00:35:37,704
 która pokrywałaby f-f-fiordy
-białym piaskiem i ciepłą...
+białym piaskiem i ciepłym...
 
 493
 00:35:38,705 --> 00:35:40,340
@@ -2157,7 +2157,7 @@ zimno zimno...
 
 495
 00:36:04,831 --> 00:36:07,835
-sklep Wandering Oaken’s
+sklep wędrującego Oakena
 
 496
 00:36:08,068 --> 00:36:09,837
@@ -2233,7 +2233,7 @@ Racja. Przepraszam bardzo.
 Prawdziwy mróz w lipcu, prawda?
 
 513
-00:37:16,400 --> 00:37:17,600
+00:37:16,300 --> 00:37:17,600
 Skąd to może pochodzić?
 
 514
@@ -2258,7 +2258,7 @@ Och, to nie jest dobrze. Widzisz,
 
 519
 00:37:26,647 --> 00:37:28,248
-Są z naszej zimowej kolekcji.
+Są z naszego zimowego zaopatrzenia.
 
 520
 00:37:28,282 --> 00:37:30,250
@@ -2272,7 +2272,8 @@ podaży i popytu?
 
 522
 00:37:32,653 --> 00:37:34,288
-Żyję ze sprzedaży lodu.
+Zarabiam na życie
+sprzedając lód.
 
 523
 00:37:34,321 --> 00:37:36,256
@@ -2294,7 +2295,7 @@ dorzucę wizytę
 
 527
 00:37:41,728 --> 00:37:43,597
-w saunie Oaken's.
+w saunie Oakena.
 
 528
 00:37:44,498 --> 00:37:45,866
@@ -2557,7 +2558,7 @@ Nosiła rękawice cały czas,
 
 588
 00:41:05,365 --> 00:41:07,467
-więc pomyślałam, że może ona
+więc myślałam, że może po prostu
 ma bzika na punkcie brudu.
 
 589
@@ -2579,7 +2580,7 @@ O tak? Jakie jest jego nazwisko?
 
 593
 00:41:18,779 --> 00:41:20,614
-... Z Południowych Wysp.
+...Z Południowych Wysp.
 
 594
 00:41:20,647 --> 00:41:22,082
@@ -2642,7 +2643,7 @@ Nie brzmi jak prawdziwa miłość.
 
 607
 00:41:43,804 --> 00:41:45,806
-Czy jesteś jakiś ekspertem od miłości?
+Jesteś jakimś ekspertem od miłości?
 
 608
 00:41:46,240 --> 00:41:49,009
@@ -2655,7 +2656,7 @@ ekspertami od miłości?
 
 610
 00:41:51,345 --> 00:41:53,447
-- Nie wierzę,
+- Nie wierzę.
 - Przestań gadać.
 
 611
@@ -2801,7 +2802,7 @@ nowych sani, jak zginie.
 
 643
 00:44:09,082 --> 00:44:10,817
-Wiesz, czasami naprawdę
+Czasami naprawdę
 cię nie lubię.
 
 644
@@ -2884,11 +2885,11 @@ Mam rację?
 661
 00:45:45,846 --> 00:45:47,514
 - Nie chcę go!
-- Backatchya!
+- Nie ma oddawanek!
 
 662
 00:45:47,614 --> 00:45:49,149
-- Proszę mnie nie upuścić.
+- Proszę nie upuśćcie mnie.
 - Daj spokój, to tylko głowa.
 
 663
@@ -2897,19 +2898,19 @@ Nie!
 
 664
 00:45:50,184 --> 00:45:51,185
-Dobrze, mamy zły start.
+W porządku, źle zaczęliśmy.
 
 665
 00:45:51,218 --> 00:45:53,187
-Ew,  ciało!
+Ew, ciało!
 
 666
 00:45:56,290 --> 00:45:57,758
-Zaraz, na co ja teraz  patrzę?
+Zaraz, na co teraz  patrzę?
 
 667
 00:45:57,758 --> 00:45:59,660
-Czemu wisicie z ziemi
+Czemu zwisacie z ziemi
 jak nietoperze?
 
 668
@@ -2931,8 +2932,8 @@ No, prawie.
 
 672
 00:46:10,337 --> 00:46:12,339
-Wyglądało jak moje całe
-życie do góry nogami.
+Wyglądało jakby moje całe życie
+odwróciło się do góry nogami.
 
 673
 00:46:13,407 --> 00:46:14,942
@@ -2947,7 +2948,7 @@ Chciałam...
 675
 00:46:16,510 --> 00:46:19,947
 Żartujesz?
-Jestem wspaniały!
+Jest wspaniale!
 
 676
 00:46:19,980 --> 00:46:21,682
@@ -2967,7 +2968,7 @@ O, kocham go jeszcze bardziej!
 
 680
 00:46:30,090 --> 00:46:32,326
-Dobrze, zacznijmy od nowa.
+Dobrze, zacznijmy od początku.
 
 681
 00:46:32,359 --> 00:46:36,930
@@ -3046,7 +3047,7 @@ pokazać nam drogę?
 698
 00:47:13,233 --> 00:47:15,369
 Przestań, Sven. 
-Staram się skupić tutaj.
+Próbuję się tu skupić.
 
 699
 00:47:15,569 --> 00:47:17,971
@@ -3068,11 +3069,12 @@ O, nie wiem dlaczego, ale
 
 703
 00:47:23,443 --> 00:47:26,547
-zawsze uwielbiałem lato
+zawsze podobał mi się pomysł  lata
 
 704
 00:47:26,813 --> 00:47:30,284
-I Słońce, i wszystkie rzeczy na gorąco.
+I słońca, i wszystkich
+gorących rzeczy...
 
 705
 00:47:30,317 --> 00:47:31,451
@@ -3099,97 +3101,96 @@ gdyby było lato.
 
 710
 00:47:44,865 --> 00:47:49,069
-Bees’ll buzz, Kids’ll blow
-dandelion fuzz
+Pszczoły będą bzyczeć, dzieci
+zdmuchiwać puch dmuchawców
 
 711
 00:47:49,102 --> 00:47:53,941
-And i’ll be doing
-whatever snow does in summer.
+A ja będę robić cokolwiek
+śnieg robi latem.
 
 712
 00:47:55,742 --> 00:48:00,280
-A drink in my hand, My snow up
-against the burning sand
+Drink w dłoni, śnieżne ciało
+oparte o gorący piasek
 
 713
 00:48:00,347 --> 00:48:04,418
-Prob’ly getting gorgeously
-tanned in Summer.
+Pewnie cudownie się
+opalając latem.
 
 714
 00:48:04,885 --> 00:48:06,854
-I’ll finally see
-a summer breeze,
+Nareszcie zobaczę
+letni wietrzyk
 
 715
 00:48:06,854 --> 00:48:08,789
-blow away a winter storm
+zdmuchujacy zimowe burze
 
 716
 00:48:09,423 --> 00:48:10,824
-And find out what happens to
+I dowiem się co się dzieje
 
 717
 00:48:10,824 --> 00:48:14,261
-solid water, When it gets warm.
+z lodem, gdy robi się ciepło.
 
 718
 00:48:15,929 --> 00:48:20,100
-And i can’t wait to see, what
-my buddies all think of me
+I nie mogę się doczekać
+co powiedzą o mnie moi kumple
 
 719
 00:48:20,434 --> 00:48:25,038
-Just imagine how much
-cooler i’ll be in summer!
+Wyobraźcie sobie o ile
+bardziej cool będę latem!
 
 720
 00:48:29,977 --> 00:48:31,912
-The hot and the cold
-are both so intense,
+Gorąco i zimno
+są obaa tak intesywne,
 
 721
 00:48:31,912 --> 00:48:34,481
-Put ‘em together, It
-just makes sense!
+Połączenie ich wydaje się
+byc najbardziej sensowne!
 
 722
 00:48:38,619 --> 00:48:40,654
-Winter’s a good time
-to stay in and cuddle,
+Zima jest fajna by grzać się
+i chronić przed burzą,
 
 723
 00:48:40,654 --> 00:48:42,689
-But put me in summer
-and i’ll be a...
+Ale dajcie mi lato, a będę...
 
 724
 00:48:44,024 --> 00:48:45,726
-Happy Snowman!
+Szczęśliwym bałwanem!
 
 725
 00:48:45,759 --> 00:48:49,363
-When life gets rough i like
-to hold on to my dream
+Kiedy życie staje się ciężkie
+lubię sobie marzyć
 
 726
 00:48:49,696 --> 00:48:54,434
-of relaxing in the summer
-sun just letting off steam!
+o odpoczynku w słońcu
+grzejącym pełną parą!
 
 727
 00:48:56,170 --> 00:48:59,740
-Oh the sky will be Blue...
+Oh niebo będzie niebieskie...
 
 728
 00:48:59,773 --> 00:49:03,377
-And you guys’ll be there too.
+I wy tam też będziecie.
 
 729
 00:49:03,410 --> 00:49:08,782
-When i finally do what frozen
-things do in Summer!
+Kiedy wreszcie będę robić to,
+co zmrożone rzeczy robią w lecie!
 
 730
 00:49:09,049 --> 00:49:11,151
