@@ -3543,7 +3543,8 @@ Myślisz, że wie, jak się puka?
 
 810
 00:53:27,574 --> 00:53:30,644
-Jest otwarte.
+Otworzyły się.
+Pierwszy krok za sobą...
 
 811
 00:53:31,845 --> 00:53:33,614
@@ -3575,7 +3576,7 @@ Ty też, Olaf.
 817
 00:53:45,025 --> 00:53:47,261
 - Ja?
-- Daj mi minutę.
+- Po prostu... daj nam minutę.
 
 818
 00:53:47,294 --> 00:53:48,695
@@ -3599,11 +3600,11 @@ Anna?
 
 823
 00:54:18,725 --> 00:54:22,262
-Elsa, wyglądasz inaczej...
+Wow, Elsa, wyglądasz inaczej...
 
 824
 00:54:22,529 --> 00:54:25,999
-To dobry inny...
+To dobre innaczej...
 I to miejsce
 
 825
@@ -3691,7 +3692,7 @@ Um... Myślę, że tak?
 
 844
 00:55:15,215 --> 00:55:17,618
-On jest po prostu jak ten, który
+Jest dokładnie jak ten, którego
 zbudowałyśmy jako dzieci.
 
 845
@@ -3700,15 +3701,16 @@ Tak!
 
 846
 00:55:20,420 --> 00:55:22,556
-Więc byłyśmy tak blisko.
+Byłyśmy tak blisko.
 
 847
 00:55:22,789 --> 00:55:24,758
-Możemy znowu takie być.
+Może znowu tak być.
 
 848
-00:55:26,159 --> 00:55:28,529
-Zwolnij...
+00:55:26,059 --> 00:55:28,529
+- Złap mnie!
+- Zwolnij!
 
 849
 00:55:30,998 --> 00:55:32,733
@@ -3725,7 +3727,7 @@ Nie, nie możemy.
 
 852
 00:55:39,306 --> 00:55:41,808
-Nie, po prostu próbuję cię chronić.
+Nie, ja tylko próbuję cię chronić.
 
 853
 00:55:41,842 --> 00:55:44,478
@@ -3742,20 +3744,20 @@ Proszę nie zatrzaskuj drzwi.
 
 856
 00:55:49,483 --> 00:55:53,420
-Nie musisz już utrzymać dystansu.
+Nie musisz już utrzymywać dystansu.
 
 857
 00:55:53,687 --> 00:55:56,557
-Bo po raz pierwszy od dawna,
+Bo po raz pierwszy od zawsze,
 
 858
 00:55:56,690 --> 00:55:58,859
-w końcu zrozumiałam.
+w końcu rozumiem.
 
 859
 00:55:58,892 --> 00:56:03,297
-Po raz pierwszy od dawna, 
-Możemy to naprawić trzymając się za ręce.
+Po raz pierwszy od zawsze, 
+Możemy to naprawić ręka w rękę.
 
 860
 00:56:03,330 --> 00:56:05,599
@@ -3767,7 +3769,7 @@ Nie musisz żyć w strachu.
 
 862
 00:56:08,635 --> 00:56:12,506
-Bo po raz pierwszy od dawna,
+Bo po raz pierwszy od zawsze,
 
 863
 00:56:12,706 --> 00:56:16,076
@@ -3787,7 +3789,7 @@ Idź cieszyć się słońcem i otworzyć bramy.
 
 867
 00:56:25,285 --> 00:56:28,856
-- Tak, ale…
+- Tak, ale...
 - Wiem! Chcesz dobrze,
 
 868
@@ -3801,8 +3803,8 @@ ale jestem sama i wolna.
 
 870
 00:56:35,395 --> 00:56:40,467
-Po prostu trzymaj się z dala, 
-a będziecie bezpieczni od mnie.
+Po prostu trzymajcie się z dala
+ode mnie, a będziecie bezpieczni.
 
 871
 00:56:41,435 --> 00:56:43,403
@@ -3828,8 +3830,8 @@ Co?
 
 876
 00:56:54,248 --> 00:56:58,285
-Tak jakby stworzyłaś zimę...
-wszędzie.
+Tak jakby stworzyłaś wieczną
+zimę... wszędzie.
 
 877
 00:56:58,318 --> 00:56:59,686
@@ -3837,8 +3839,8 @@ Wszędzie?
 
 878
 00:56:59,720 --> 00:57:00,921
-Jest przecież w porządku, 
-możesz to odwrócić.
+Nic się nie stało, możesz
+przecież wszystko rozmrozić.
 
 879
 00:57:00,921 --> 00:57:02,089
@@ -3855,60 +3857,66 @@ Wiem, że potrafisz!
 
 882
 00:57:06,260 --> 00:57:10,364
-Bo po raz pierwszy od dawna,
+[Anna] Bo po raz pierwszy od zawsze,
 
 883
 00:57:10,397 --> 00:57:12,933
-Jestem taka głupia! 
+[Elsa] Jestem taka głupia! 
 Nie mogę być wolna!
 
 884
 00:57:13,133 --> 00:57:15,469
-Nie musisz się bać.
+[Anna] Nie musisz się bać.
 
 885
 00:57:15,469 --> 00:57:17,971
-Nie ma ucieczki przed burzą we mnie!
+[Elsa] Nie ma ucieczki przed burzą we mnie!
 
 886
 00:57:17,971 --> 00:57:20,140
-Możemy pracować nad tym razem.
+[Anna] Możemy to razem rozwiązać.
 
 887
 00:57:20,140 --> 00:57:22,042
-Nie mogę kontrolować klątwy!
+[Elsa] Nie mogę kontrolować klątwy!
 
 888
 00:57:22,042 --> 00:57:25,746
-Odwrócimy burzę, którą zaczęłaś.
+[Anna] Odwrócimy burzę, którą zaczęłaś.
 
 889
 00:57:25,846 --> 00:57:28,448
-Anno, proszę, będzie tylko jeszcze gorzej!
+[Elsa] Anno, proszę, tylko 
+to pogarszasz!
 
 890
 00:57:28,448 --> 00:57:29,349
-Nie bój się.
+[Anna] Nie panikuj
 
 891
 00:57:29,349 --> 00:57:30,651
-Jest tyle strachu!
+[Elsa] Jest tyle strachu!
 
 892
 00:57:30,651 --> 00:57:32,352
-Sprawimy, że słońce jasno zaświeci.
+[Anna] Sprawimy, że słońce jasno zaświeci.
 
 893
 00:57:32,452 --> 00:57:33,487
-Nie jesteś tu bezpieczna!
+[Elsa] Nie jesteś tu bezpieczna!
 
 894
-00:57:33,487 --> 00:57:35,355
-Możemy zmierzyć się z tym czymś razem...
+00:57:33,487 --> 00:57:36,355
+[Anna] Możemy zmierzyć się z tym razem,
+
+895
+00:57:36,355 --> 00:57:40,300
+[Anna] Możemy zmienić zimową pogodę
+I wszystko będzie...
 
 895
 00:57:41,562 --> 00:57:44,965
-Nie mogę!
+[Elsa] Nie mogę!
 
 896
 00:57:52,272 --> 00:57:54,942
