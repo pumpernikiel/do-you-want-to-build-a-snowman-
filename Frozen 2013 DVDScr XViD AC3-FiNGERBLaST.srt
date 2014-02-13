@@ -5415,14 +5415,14 @@ który cię uratuje.
 
 1241
 01:20:50,317 --> 01:20:52,452
-Czy masz jakieś pomysły?
+Masz może jakieś pomysły?
 
 1242
-01:20:52,486 --> 01:20:55,489
+01:20:52,486 --> 01:20:54,889
 Ja nawet nie wiem, czym jest miłość.
 
 1243
-01:20:55,522 --> 01:20:58,458
+01:20:55,122 --> 01:20:58,458
 Nie szkodzi, ja wiem...
 Miłość to...
 
@@ -5441,11 +5441,11 @@ do Hansa i opuścił na zawsze.
 
 1247
 01:21:09,069 --> 01:21:11,805
-Kristoff mnie kocha?
+Kristoff... mnie kocha?
 
 1248
 01:21:12,840 --> 01:21:16,977
-Ty naprawdę nie wiesz nic o
+Wow, ty naprawdę nie wiesz nic o
 miłości, prawda?
 
 1249
@@ -5462,7 +5462,7 @@ Tylko może nie w tej sekundzie.
 
 1252
 01:21:30,657 --> 01:21:32,826
-Nie martw się, mam to!
+Nie martw się, zajmę się tym!
 
 1253
 01:21:34,728 --> 01:21:36,230
@@ -5484,7 +5484,7 @@ Oni-oni wracają?
 
 1257
 01:21:46,106 --> 01:21:49,576
-On naprawdę szybko się porusza.
+Naprawdę szybko biegnie.
 Myślę, że byłem w błędzie.
 
 1258
@@ -5527,7 +5527,7 @@ Jazda w poprzek fiordów jak dzielny,
 
 1267
 01:22:08,729 --> 01:22:11,198
-ostry reniferów król!
+król reniferów!
 Chodź!
 
 1268
@@ -5544,360 +5544,364 @@ Jesteśmy w pułapce.
 
 1271
 01:22:50,604 --> 01:22:52,506
-Zjeżdżaj Anno.
+Zjeżdżaj, Anno.
 
 1272
 01:23:01,114 --> 01:23:02,749
-Zrobiliśmy to!
+Udało się!
 
 1273
 01:23:03,617 --> 01:23:05,652
-Go, Go, Go, Go...
+Dalej, dalej, dalej.
 
 1274
 01:23:17,764 --> 01:23:19,967
-Chodź, kolego, szybciej.
+Dalej, stary, szybciej.
 
 1275
 01:23:21,768 --> 01:23:23,837
 Kristoff!
 
 1276
+01:23:30,179 --> 01:23:31,115
+Idź dalej!
+
+1277
 01:23:32,779 --> 01:23:34,715
 Kristoff!
 
-1277
+1278
 01:24:29,837 --> 01:24:31,972
 Sven!
 
-1278
+1279
 01:24:41,315 --> 01:24:43,150
 Dobry chłopak.
 
-1279
+1280
 01:24:54,161 --> 01:24:55,796
 Kristoff.
 
-1280
+1281
 01:24:59,199 --> 01:25:00,834
 Anna!
 
-1281
+1282
 01:25:03,504 --> 01:25:05,038
 Elsa.
 
-1282
-01:25:05,205 --> 01:25:07,774
-Nie można od tego uciec!
-
 1283
-01:25:09,343 --> 01:25:13,046
-- Zajmij się moją siostrą.
-- Twoja siostra?
+01:25:05,205 --> 01:25:07,774
+Nie możesz od tego uciekać!
 
 1284
+01:25:09,343 --> 01:25:13,046
+- Zaopiekuj się moją siostrą.
+- Twoja siostra?
+
+1285
 01:25:13,080 --> 01:25:15,649
 Wróciła z góry słaba i zimna.
 
-1285
+1286
 01:25:15,649 --> 01:25:18,252
 Powiedziała, że zamroziłaś jej serce.
 
-1286
+1287
 01:25:19,119 --> 01:25:22,256
 Próbowałem ją uratować,
 ale było już za późno.
 
-1287
+1288
 01:25:22,756 --> 01:25:26,126
 Jej skóra była lodem.
 Jej włosy zbielały...
 
-1288
+1289
 01:25:26,727 --> 01:25:30,531
 Twoja siostra nie żyje...
-Z twojego powodu.
+przez ciebie.
 
-1289
+1290
 01:25:30,531 --> 01:25:31,532
 Nie!
 
-1290
+1291
 01:25:54,454 --> 01:25:55,889
 Kristoff?
 
-1291
+1292
 01:25:57,824 --> 01:25:59,560
 Anna!
 
-1292
+1293
 01:26:10,904 --> 01:26:12,472
 Elsa?
 
-1293
+1294
 01:26:20,180 --> 01:26:22,015
 Nie!
 
-1294
+1295
 01:26:34,061 --> 01:26:35,762
 Anna!
 
-1295
+1296
 01:26:36,864 --> 01:26:42,135
 O, Anna... nie... nie, proszę nie.
 
-1296
+1297
 01:26:47,407 --> 01:26:48,942
 Anna.
 
-1297
+1298
 01:26:50,911 --> 01:26:52,546
 Anna?
 
-1298
+1299
 01:27:33,120 --> 01:27:35,088
 Anna?
 
-1299
+1300
 01:27:37,191 --> 01:27:39,359
 O, Elsa.
 
-1300
+1301
 01:27:39,393 --> 01:27:41,595
 Ty poświęciłaś się dla mnie?
 
-1301
+1302
 01:27:42,896 --> 01:27:44,531
 Kocham cię.
 
-1302
+1303
 01:27:45,632 --> 01:27:49,837
 Akt prawdziwej miłości rozmrozi
 zamrożone serce.
 
-1303
+1304
 01:27:50,804 --> 01:27:52,973
 Miłość... będzie odwilż...
 
-1304
+1305
 01:27:53,774 --> 01:27:56,410
 Miłość... Oczywiście.
 
-1305
+1306
 01:27:56,443 --> 01:27:59,479
 - Elsa?
 - Miłość.
 
-1306
+1307
 01:28:46,093 --> 01:28:47,861
 Wiedziałem, że ci się uda.
 
-1307
+1308
 01:28:47,895 --> 01:28:51,698
 Ręce w dół, to jest
 najlepszy dzień w moim życiu...
 
-1308
+1309
 01:28:51,732 --> 01:28:54,268
 I prawdopodobnie ostatni.
 
-1309
+1310
 01:28:54,301 --> 01:28:56,803
 O, Olaf. Trzymaj się, mały.
 
-1310
+1311
 01:28:59,940 --> 01:29:02,643
 Hej, moja osobista chmurka.
 
-1311
+1312
 01:29:12,753 --> 01:29:15,856
 Anno? Ale masz zamrożone serce.
 
-1312
+1313
 01:29:15,889 --> 01:29:19,326
 Jedyne zamrożone serce tutaj jest
 Twoje.
 
-1313
+1314
 01:29:43,217 --> 01:29:45,853
 Zawrócę tego łajdaka
 tam skąd przyszedł.
 
-1314
+1315
 01:29:45,886 --> 01:29:47,821
 Zobaczymy, co jego dwunastu starszych
 
-1315
+1316
 01:29:47,821 --> 01:29:49,790
 braci będzie myśleć o jego zachowaniu.
 
-1316
+1317
 01:29:49,823 --> 01:29:51,491
 Arendelle dziękuje Ci, Panie.
 
-1317
+1318
 01:29:51,491 --> 01:29:53,160
 To jest nie do przyjęcia.
 
-1318
+1319
 01:29:53,193 --> 01:29:55,395
 Jestem niewinny. Jestem ofiarą strachu.
 
-1319
+1320
 01:29:55,395 --> 01:29:58,332
 Byłem w szoku.
 Moja szyja boli.
 
-1320
+1321
 01:29:58,599 --> 01:30:01,502
 Czy jest jakiś lekarz, z którym mógłbym... Nie?
 
-1321
+1322
 01:30:01,535 --> 01:30:04,238
 Żądam widzenia z królową!
 
-1322
+1323
 01:30:04,271 --> 01:30:06,907
 Mam wiadomość od królowej.
 
-1323
+1324
 01:30:06,940 --> 01:30:09,409
 Arendelle rezygnuje na zawsze
 
-1324
+1325
 01:30:09,409 --> 01:30:11,245
 z interesów jakie były prowadzone
 
-1325
+1326
 01:30:11,278 --> 01:30:12,980
 z Weaseltown.
 
-1326
+1327
 01:30:13,013 --> 01:30:15,649
 Weselton. To Weselton!
 
-1327
+1328
 01:30:15,682 --> 01:30:19,386
 - Chodź. Chodź. Chodź.
 - Chodź! Dobra, dobra...
 
-1328
+1329
 01:30:19,419 --> 01:30:21,822
 Tak mi przykro.
 
-1329
+1330
 01:30:21,855 --> 01:30:24,224
 Ok. Ok. No to jesteśmy.
 
-1330
+1331
 01:30:27,227 --> 01:30:29,696
 Winna byłam ci sanki.
 
-1331
+1332
 01:30:32,199 --> 01:30:33,800
 Poważnie?
 
-1332
+1333
 01:30:33,800 --> 01:30:35,435
 Tak. I to jest najnowszy model.
 
-1333
+1334
 01:30:35,969 --> 01:30:37,471
 No nie mogę tego zaakceptować...
 
-1334
+1335
 01:30:37,504 --> 01:30:40,541
 Musisz. Żadnych zwrotów.
 Żadnego targowania się. Rozkazy królowej.
 
-1335
+1336
 01:30:40,574 --> 01:30:41,842
 Oficjalnie nazwała ciebie
 
-1336
+1337
 01:30:41,842 --> 01:30:44,511
 Król lodu i Wybawiciel z Arendelle.
 
-1337
+1338
 01:30:44,678 --> 01:30:46,513
 - Co? Nie ma takiego tytułu.
 - Pewnie, że jest.
 
-1338
+1339
 01:30:46,547 --> 01:30:49,983
 I to nawet ma uchwyt na kubek...
 Podoba ci się?
 
-1339
+1340
 01:30:50,017 --> 01:30:52,486
 Podoba ci się? Kocham go...
 
-1340
+1341
 01:30:53,020 --> 01:30:55,055
 Mogę cię pocałować!
 
-1341
+1342
 01:30:55,923 --> 01:30:57,958
 Mogłem. To znaczy chciałbym.
 Chcia..
 
-1342
+1343
 01:30:57,991 --> 01:31:00,027
 Mogę? My ja... To znaczy, możemy?
 
-1343
+1344
 01:31:00,060 --> 01:31:01,862
 Czekaj, co?
 
-1344
+1345
 01:31:02,162 --> 01:31:03,931
 Możemy.
 
-1345
+1346
 01:31:07,367 --> 01:31:09,069
 Lato!
 
-1346
+1347
 01:31:12,840 --> 01:31:14,808
 Witam.
 
-1347
+1348
 01:31:31,291 --> 01:31:33,360
 Czy jesteście gotowi?
 
-1348
+1349
 01:31:56,917 --> 01:31:58,519
 Lubię otwarte wrota.
 
-1349
+1350
 01:31:58,685 --> 01:32:00,921
 Nigdy ich już nie zamkniemy.
 
-1350
+1351
 01:32:03,390 --> 01:32:04,858
 Co? Och, Elsa, są piękne,
 
-1351
+1352
 01:32:04,858 --> 01:32:06,326
 ale wiesz, ja nie jeżd...
 
-1352
+1353
 01:32:06,360 --> 01:32:08,328
 Chodź, możesz to zrobić!
 
-1353
+1354
 01:32:08,929 --> 01:32:09,530
 Hej, dziewczyny!
 
-1354
+1355
 01:32:11,932 --> 01:32:13,433
 Cześć.
 
-1355
+1356
 01:32:13,934 --> 01:32:16,537
 Napisy przetłumaczone przez Altu5
 
-1356
+1357
 01:32:25,537 --> 01:32:29,487
 Precz z Kiełbasińską!
 
