@@ -1,6 +1,5 @@
 ﻿1
 00:01:12,946 --> 00:01:16,896
-www.NapiProjekt.pl - nowa jakość napisów.
 Napisy zostały specjalnie dopasowane do Twojej wersji filmu.
 
 2
@@ -9,8 +8,8 @@ Niech żyje gorący bigosik!
 
 3
 00:01:18,946 --> 00:01:22,883
-Napisy przetłumaczone przez Anie i Kasie
-Korekta: Duperelek i Zeberka
+Napisy przetłumaczone przez Anię i Kasię
+Korekta: Duperelek i Żeberka
 
 4
 00:01:22,950 --> 00:01:28,889
@@ -5899,7 +5898,7 @@ Cześć.
 
 1358
 01:32:13,934 --> 01:32:16,537
-Napisy przetłumaczone przez Altu5
+Napisy przetłumaczone przez Anię i Kasię.
 
 1359
 01:32:25,537 --> 01:32:29,487
