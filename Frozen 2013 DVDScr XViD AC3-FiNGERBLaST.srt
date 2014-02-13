@@ -1114,7 +1114,6 @@ Jest cieplej niż myślałem.
 00:20:53,200 --> 00:20:55,600
 Co tak niesamowicie pachnie?
 
-
 259
 00:20:56,323 --> 00:20:59,726
 ...Czekolada.
@@ -2235,13 +2234,8 @@ Racja. Przepraszam bardzo.
 00:37:12,833 --> 00:37:15,536
 Prawdziwy mróz w lipcu, prawda?
 
-<<<<<<< HEAD
-514
-00:37:16,400 --> 00:37:17,600
-=======
 513
 00:37:16,300 --> 00:37:17,600
->>>>>>> tlumaczenie-duperelka
 Skąd to może pochodzić?
 
 515
@@ -3478,7 +3472,7 @@ Proszę powiedz mi, że jestem prawie na miejscu.
 795
 00:52:12,299 --> 00:52:14,735
 Czy powietrze nie wydaje ci się
-nieco lżejsze tu na górze?
+nieco rzadsze tu na górze?
 
 796
 00:52:16,136 --> 00:52:18,472
@@ -4291,7 +4285,7 @@ Nieprawda. Anno, potrzebujesz pomocy.
 
 982
 01:02:22,776 --> 01:02:25,179
-tak. I nie martwcie się, oni
+Tak. I nie martwcie się, oni
 będą umieli to naprawić.
 
 983
@@ -4516,6 +4510,10 @@ Trolle? To są trolle.
 - Dziewczyna! Dziewczyna!
 
 1034
+01:05:19,248 --> 01:05:21,019
+- Jest jak małe ciasteczko!
+
+1034
 01:05:21,922 --> 01:05:23,056
 Co się dzieje?
 
@@ -4594,34 +4592,30 @@ który jest tak czuły i słodki.
 01:05:59,760 --> 01:06:00,494
 To miło.
 
-1052
-01:06:00,494 --> 01:06:02,529
-Ale nigdy nie spotkasz faceta, 
-który jest tak czuły i słodki.
-
-1053
-01:06:02,529 --> 01:06:04,565
+1050
+01:06:00,529 --> 01:06:04,565
 Cóż, jest on trochę nietentego,
 Cóż, ma parę wad,
 
-1054
+1052
 01:06:04,598 --> 01:06:06,867
 Jego dziwny mózg, kochana.
 Jego przyjaźń z reniferem
 
-1055
-01:06:06,867 --> 01:miło- wykraczające poza kilka praw natury.
+1053
+01:06:06,867 --> 01:06:09,100
+- wykraczająca poza kilka praw natury.
 - Tu nie chodzi o mnie!
 
-1056
+1054
 01:06:09,269 --> 01:06:11,438
 Cóż, jest on trochę nietentego,
 
-1057
+1055
 01:06:11,438 --> 01:06:13,640
 ale jesteśmy pewni...
 
-1058
+1056
 01:06:13,674 --> 01:06:18,011
 że możesz go naprawić
 odrobiną miłości.
@@ -4671,7 +4665,7 @@ On jest po prostu odrobinę nietenetego.
 
 1069
 01:06:45,339 --> 01:06:47,040
-On parę pluskiew ma.
+Ma parę niedoróbek.
 
 1070
 01:06:47,040 --> 01:06:48,041
@@ -4679,7 +4673,7 @@ Nie, nie mam.
 
 1071
 01:06:48,141 --> 01:06:50,210
-Jego izolacja jest potwierdzeniem
+Jego samotność jest potwierdzeniem
 
 1072
 01:06:50,210 --> 01:06:52,312
@@ -4688,7 +4682,7 @@ leczniczych uścisków.
 
 1073
 01:06:52,713 --> 01:06:56,984
-Więc on jest nieco nietentego, 
+Cóż, jest on nieco nietentego, 
 ale my wiemy co zrobić.
 
 1074
