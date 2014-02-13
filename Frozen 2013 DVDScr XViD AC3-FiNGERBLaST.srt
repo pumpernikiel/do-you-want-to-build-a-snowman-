@@ -978,7 +978,7 @@ Ja jestem niezręczna.
 
 227
 00:17:45,132 --> 00:17:46,567
-Ty jesteś wspaniały. Chwila, co?
+Ty jesteś wspaniały. Czekaj, co?
 
 228
 00:17:46,600 --> 00:17:47,868
@@ -5668,7 +5668,7 @@ O, Elsa.
 
 1301
 01:27:39,393 --> 01:27:41,595
-Ty poświęciłaś się dla mnie?
+Poświęciłaś się dla mnie?
 
 1302
 01:27:42,896 --> 01:27:44,531
@@ -5681,7 +5681,7 @@ zamrożone serce.
 
 1304
 01:27:50,804 --> 01:27:52,973
-Miłość... będzie odwilż...
+Miłość rozmrozi...
 
 1305
 01:27:53,774 --> 01:27:56,410
@@ -5698,7 +5698,7 @@ Wiedziałem, że ci się uda.
 
 1308
 01:28:47,895 --> 01:28:51,698
-Ręce w dół, to jest
+Jak słowo daję, to jest
 najlepszy dzień w moim życiu...
 
 1309
@@ -5711,7 +5711,7 @@ O, Olaf. Trzymaj się, mały.
 
 1311
 01:28:59,940 --> 01:29:02,643
-Hej, moja osobista chmurka.
+Hej, moja własna  osobista chmurka.
 
 1312
 01:29:12,753 --> 01:29:15,856
@@ -5724,8 +5724,8 @@ Twoje.
 
 1314
 01:29:43,217 --> 01:29:45,853
-Zawrócę tego łajdaka
-tam skąd przyszedł.
+Odeślę tego łajdaka
+do jego kraju.
 
 1315
 01:29:45,886 --> 01:29:47,821
@@ -5745,7 +5745,7 @@ To jest nie do przyjęcia.
 
 1319
 01:29:53,193 --> 01:29:55,395
-Jestem niewinny. Jestem ofiarą strachu.
+Jestem ofiarą strachu.
 
 1320
 01:29:55,395 --> 01:29:58,332
@@ -5766,11 +5766,11 @@ Mam wiadomość od królowej.
 
 1324
 01:30:06,940 --> 01:30:09,409
-Arendelle rezygnuje na zawsze
+Arendelle raz na zawsze rezygnuje
 
 1325
 01:30:09,409 --> 01:30:11,245
-z interesów jakie były prowadzone
+z prowadzenia jakichkolwiek interesów
 
 1326
 01:30:11,278 --> 01:30:12,980
@@ -5783,7 +5783,7 @@ Weselton. To Weselton!
 1328
 01:30:15,682 --> 01:30:19,386
 - Chodź. Chodź. Chodź.
-- Chodź! Dobra, dobra...
+- Dobra, dobra...
 
 1329
 01:30:19,419 --> 01:30:21,822
@@ -5795,7 +5795,7 @@ Ok. Ok. No to jesteśmy.
 
 1331
 01:30:27,227 --> 01:30:29,696
-Winna byłam ci sanki.
+Byłam ci winna sanie.
 
 1332
 01:30:32,199 --> 01:30:33,800
@@ -5803,11 +5803,11 @@ Poważnie?
 
 1333
 01:30:33,800 --> 01:30:35,435
-Tak. I to jest najnowszy model.
+Tak! I to najnowszy model.
 
 1334
 01:30:35,969 --> 01:30:37,471
-No nie mogę tego zaakceptować...
+Nie, nie mogę tego przyjąć...
 
 1335
 01:30:37,504 --> 01:30:40,541
@@ -5816,11 +5816,11 @@ Musisz. Żadnych zwrotów.
 
 1336
 01:30:40,574 --> 01:30:41,842
-Oficjalnie nazwała ciebie
+Nazwała cię oficjalnym
 
 1337
 01:30:41,842 --> 01:30:44,511
-Król lodu i Wybawiciel z Arendelle.
+Mistrzem Lodu i Dostawcą z Arendelle.
 
 1338
 01:30:44,678 --> 01:30:46,513
@@ -5834,15 +5834,15 @@ Podoba ci się?
 
 1340
 01:30:50,017 --> 01:30:52,486
-Podoba ci się? Kocham go...
+Podoba? Kocham go!..
 
 1341
 01:30:53,020 --> 01:30:55,055
-Mogę cię pocałować!
+Mógłbym cię pocałować!
 
 1342
 01:30:55,923 --> 01:30:57,958
-Mogłem. To znaczy chciałbym.
+Mógłbym. To znaczy chciałbym.
 Chcia..
 
 1343
@@ -5867,11 +5867,11 @@ Witam.
 
 1348
 01:31:31,291 --> 01:31:33,360
-Czy jesteście gotowi?
+Jesteście gotowi?
 
 1349
 01:31:56,917 --> 01:31:58,519
-Lubię otwarte wrota.
+Lubię otwarte bramy.
 
 1350
 01:31:58,685 --> 01:32:00,921
@@ -5887,11 +5887,11 @@ ale wiesz, ja nie jeżd...
 
 1353
 01:32:06,360 --> 01:32:08,328
-Chodź, możesz to zrobić!
+Chodź, dasz radę!
 
 1354
 01:32:08,929 --> 01:32:09,530
-Hej, dziewczyny!
+Uwaga, renifer przejeżdża!
 
 1355
 01:32:11,932 --> 01:32:13,433
