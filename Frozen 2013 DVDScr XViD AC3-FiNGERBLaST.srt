@@ -5782,7 +5782,7 @@ Weselton. To Weselton!
 
 1330
 01:30:19,419 --> 01:30:21,822
-Tak mi przykro.
+Przepraszam.
 
 1331
 01:30:21,855 --> 01:30:24,224
@@ -5824,7 +5824,7 @@ Mistrzem Lodu i Dostawcą z Arendelle.
 
 1340
 01:30:46,547 --> 01:30:49,983
-I to nawet ma uchwyt na kubek...
+I nawet ma uchwyt na kubek...
 Podoba ci się?
 
 1341
@@ -5878,7 +5878,7 @@ Co? Och, Elsa, są piękne,
 
 1353
 01:32:04,858 --> 01:32:06,326
-ale wiesz, ja nie jeżd...
+ale wiesz, że ja nie jeżd...
 
 1354
 01:32:06,360 --> 01:32:08,328
@@ -5893,7 +5893,7 @@ Uwaga, renifer przejeżdża!
 Cześć.
 
 1357
-01:32:13,934 --> 01:32:16,537
+01:32:15,934 --> 01:32:18,537
 Korekta: Duperelek i Żeberka
 
 1358
