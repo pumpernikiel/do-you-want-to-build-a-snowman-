@@ -1560,7 +1560,7 @@ Anno...
 359
 00:26:17,578 --> 00:26:19,813
 O, możemy zaprosić wszystkich twoich
-dwunastu braci żeby zomieszkali z nami...
+dwunastu braci żeby zamieszkali z nami...
 
 360
 00:26:19,813 --> 00:26:21,148
@@ -1793,7 +1793,7 @@ Królowa przeklęła tę ziemię!
 
 413
 00:29:43,584 --> 00:29:45,285
-Ona musi być zatrzymana!
+Trzeba ją powstrzymać!
 
 414
 00:29:45,319 --> 00:29:47,287
@@ -2053,7 +2053,7 @@ fraktalach dookoła.
 
 472
 00:33:56,303 --> 00:34:02,276
-I jedna myśl się krystalizuje 
+I jedna myśl krystalizuje się
 jak lodowaty podmuch...
 
 473
@@ -2147,7 +2147,7 @@ tr-tr-tropikalnej magii,
 493
 00:35:33,834 --> 00:35:37,704
 która pokrywałaby f-f-fiordy
-białym piaskiem i ciepłą...
+białym piaskiem i ciepłym...
 
 494
 00:35:38,705 --> 00:35:40,340
@@ -2160,7 +2160,7 @@ zimno zimno...
 
 496
 00:36:04,831 --> 00:36:07,835
-sklep Wandering Oaken’s
+sklep wędrującego Oakena
 
 497
 00:36:08,068 --> 00:36:09,837
@@ -2235,8 +2235,13 @@ Racja. Przepraszam bardzo.
 00:37:12,833 --> 00:37:15,536
 Prawdziwy mróz w lipcu, prawda?
 
+<<<<<<< HEAD
 514
 00:37:16,400 --> 00:37:17,600
+=======
+513
+00:37:16,300 --> 00:37:17,600
+>>>>>>> tlumaczenie-duperelka
 Skąd to może pochodzić?
 
 515
@@ -2261,7 +2266,7 @@ Och, to nie jest dobrze. Widzisz,
 
 520
 00:37:26,647 --> 00:37:28,248
-Są z naszej zimowej kolekcji.
+Są z naszego zimowego zaopatrzenia.
 
 521
 00:37:28,282 --> 00:37:30,250
@@ -2275,7 +2280,8 @@ podaży i popytu?
 
 523
 00:37:32,653 --> 00:37:34,288
-Żyję ze sprzedaży lodu.
+Zarabiam na życie
+sprzedając lód.
 
 524
 00:37:34,321 --> 00:37:36,256
@@ -2297,7 +2303,7 @@ dorzucę wizytę
 
 528
 00:37:41,728 --> 00:37:43,597
-w saunie Oaken's.
+w saunie Oakena.
 
 529
 00:37:44,498 --> 00:37:45,866
@@ -2560,7 +2566,7 @@ Nosiła rękawice cały czas,
 
 589
 00:41:05,365 --> 00:41:07,467
-więc pomyślałam, że może ona
+więc myślałam, że może po prostu
 ma bzika na punkcie brudu.
 
 590
@@ -2582,7 +2588,7 @@ O tak? Jakie jest jego nazwisko?
 
 594
 00:41:18,779 --> 00:41:20,614
-... Z Południowych Wysp.
+...Z Południowych Wysp.
 
 595
 00:41:20,647 --> 00:41:22,082
@@ -2645,7 +2651,7 @@ Nie brzmi jak prawdziwa miłość.
 
 608
 00:41:43,804 --> 00:41:45,806
-Czy jesteś jakiś ekspertem od miłości?
+Jesteś jakimś ekspertem od miłości?
 
 609
 00:41:46,240 --> 00:41:49,009
@@ -2658,7 +2664,7 @@ ekspertami od miłości?
 
 611
 00:41:51,345 --> 00:41:53,447
-- Nie wierzę,
+- Nie wierzę.
 - Przestań gadać.
 
 612
@@ -2804,7 +2810,7 @@ nowych sani, jak zginie.
 
 644
 00:44:09,082 --> 00:44:10,817
-Wiesz, czasami naprawdę
+Czasami naprawdę
 cię nie lubię.
 
 645
@@ -2887,11 +2893,11 @@ Mam rację?
 662
 00:45:45,846 --> 00:45:47,514
 - Nie chcę go!
-- Backatchya!
+- Nie ma oddawanek!
 
 663
 00:45:47,614 --> 00:45:49,149
-- Proszę mnie nie upuścić.
+- Proszę nie upuśćcie mnie.
 - Daj spokój, to tylko głowa.
 
 664
@@ -2900,19 +2906,19 @@ Nie!
 
 665
 00:45:50,184 --> 00:45:51,185
-Dobrze, mamy zły start.
+W porządku, źle zaczęliśmy.
 
 666
 00:45:51,218 --> 00:45:53,187
-Ew,  ciało!
+Ew, ciało!
 
 667
 00:45:56,290 --> 00:45:57,758
-Zaraz, na co ja teraz  patrzę?
+Zaraz, na co teraz  patrzę?
 
 668
 00:45:57,758 --> 00:45:59,660
-Czemu wisicie z ziemi
+Czemu zwisacie z ziemi
 jak nietoperze?
 
 669
@@ -2934,8 +2940,8 @@ No, prawie.
 
 673
 00:46:10,337 --> 00:46:12,339
-Wyglądało jak moje całe
-życie do góry nogami.
+Wyglądało jakby moje całe życie
+odwróciło się do góry nogami.
 
 674
 00:46:13,407 --> 00:46:14,942
@@ -2950,7 +2956,7 @@ Chciałam...
 676
 00:46:16,510 --> 00:46:19,947
 Żartujesz?
-Jestem wspaniały!
+Jest wspaniale!
 
 677
 00:46:19,980 --> 00:46:21,682
@@ -2970,7 +2976,7 @@ O, kocham go jeszcze bardziej!
 
 681
 00:46:30,090 --> 00:46:32,326
-Dobrze, zacznijmy od nowa.
+Dobrze, zacznijmy od początku.
 
 682
 00:46:32,359 --> 00:46:36,930
@@ -3049,7 +3055,7 @@ pokazać nam drogę?
 699
 00:47:13,233 --> 00:47:15,369
 Przestań, Sven. 
-Staram się skupić tutaj.
+Próbuję się tu skupić.
 
 700
 00:47:15,569 --> 00:47:17,971
@@ -3071,11 +3077,12 @@ O, nie wiem dlaczego, ale
 
 704
 00:47:23,443 --> 00:47:26,547
-zawsze uwielbiałem lato
+zawsze podobał mi się pomysł  lata
 
 705
 00:47:26,813 --> 00:47:30,284
-I Słońce, i wszystkie rzeczy na gorąco.
+I słońca, i wszystkich
+gorących rzeczy...
 
 706
 00:47:30,317 --> 00:47:31,451
@@ -3159,8 +3166,8 @@ to brzmi sensownie.
 
 723
 00:48:38,619 --> 00:48:40,654
-Zima to dobry czas
-na przytulanie,
+Zima jest fajna by grzać się
+i chronić przed burzą,
 
 724
 00:48:40,654 --> 00:48:42,689
