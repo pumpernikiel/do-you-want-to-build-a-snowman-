@@ -4821,7 +4821,7 @@ Prawdziwa-a-a-a-a-a.
 1104
 01:08:23,003 --> 01:08:26,940
 Czy Anna, bierzesz Kristoffa,
-Aby został Twoim...
+aby został Twoim trol...
 
 1105
 01:08:26,974 --> 01:08:28,108
@@ -4829,20 +4829,20 @@ Czekaj, co?
 
 1106
 01:08:28,141 --> 01:08:29,877
-Masz ślub.
+Bierzesz ślub.
 
 1107
 01:08:32,346 --> 01:08:34,047
-Ona jest zimna jak lód.
+Jest zimna jak lód.
 
 1108
 01:08:36,350 --> 01:08:38,652
-Jest dziwna magia tutaj!
+Jest tu dziwna magia!
 
 1109
 01:08:38,685 --> 01:08:40,988
 - Wielki Pabbie!
-- Przynieś ją do mnie.
+- Chodź, chodź, przynieś ją do mnie.
 
 1110
 01:08:42,856 --> 01:08:46,159
@@ -4868,7 +4868,7 @@ Ale można go usunąć, prawda?
 
 1115
 01:08:58,138 --> 01:08:59,806
-Nie mogę, przykro mi Kristoff...
+Nie mogę, przykro mi, Kristoff...
 
 1116
 01:08:59,873 --> 01:09:04,077
@@ -4909,7 +4909,7 @@ Pociągnij nas, Sven.
 1124
 01:09:30,637 --> 01:09:34,842
 Chodźmy pocałować Hansa!
-Kto to jest Hans?
+Kim jest ten Hans?
 
 1125
 01:09:44,518 --> 01:09:46,420
@@ -4922,22 +4922,25 @@ Bądźcie na baczności,
 
 1127
 01:09:48,388 --> 01:09:51,058
-ale żadnych złych uwag
-do królowej.
+ale nie róbcie krzywdy królowej.
 
 1128
 01:09:51,892 --> 01:09:54,027
 - Rozumiecie?
-- Tak, proszę pana.
+- Tak, sir.
 
 1129
 01:10:16,049 --> 01:10:17,818
-Królowo.
+Królowa!
 
 1130
 01:10:32,566 --> 01:10:34,868
 Jest tam!
 Chodź!
+
+1131
+01:10:36,566 --> 01:10:37,868
+Mamy ją.
 
 1131
 01:10:38,572 --> 01:10:40,474
